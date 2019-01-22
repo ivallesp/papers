@@ -28,7 +28,7 @@
 Given an input tensor of shape (1, $D_F$, $D_F$, $M$), we are interested in applying a convolutional operation producing an output tensor of shape (1, $D_G$, $D_G$, $N$)
 
 \subsection*{Convolution}
-A convolutional layer consists of $N$ kernels with size $D_K$. In order to perform this operation, the number of needed operations are: $M \cdot D_K^2 \cdot D_G^2 \cdot N$
+A convolutional layer consists of $N$ kernels with size $D_K$. In order to perform this calculation, the number of needed operations are: $M \cdot D_K^2 \cdot D_G^2 \cdot N$
 
 \begin{figure}[h!]
 	\centering
@@ -60,7 +60,7 @@ The total operations performed in the depthwise separable convolution layer sums
 \item The main goal of the paper is to compare \textit{Inception} V3 with a \textit{Xception} architecture with similar number of parameters to see which one performs the best.
 \item The \textit{Xception} is inspired in the \textit{Inception} architecture which achieved a much more efficient usage of the parameters of the network (less operations with better performance).
 \item The \textit{Xception} algorithm exploits the deepthwise separable convolutions to reduce the number of operations needed in each step.
-\item One difference between \textit{Xception} and \textit{Inception} is the order of opperations: \textit{Xception} applies a 1x1 convolution as a final operation (pointwise convolution) while \textit{Inception} applies it at the begining. 
+\item One difference between \textit{Xception} and \textit{Inception} is the order of operations: \textit{Xception} applies a 1x1 convolution as a final operation (pointwise convolution) while \textit{Inception} applies it at the begining. 
 \item Another important difference between \textit{Xception} and \textit{Inception} is that in \textit{Inception}, each of the convolutions are followed by a non-linearity while in \textit{Xception} not including non-linearities between depthwise and pointwise convolutions showed better performance.
 \item The last but not less important difference is the addition of skip connections in the \textit{Xception} architecture.
 \item The main hypothesis being tested in this paper is that the mapping of cross-channels correlations and spatial correlations in the feature maps of convolutional neural networks can be entirely decoupled. As it is a stronger hypothesis than the one tested in the \textit{Inception} algorithm, the author decided to call it \textit{Xception} (extreme \textit{Inception}).
