@@ -2,7 +2,7 @@
 
 **Gabriel Dulac-Arnold, Richard Evans, Hado van Hasselt, Peter Sunehag, Timothy Lillicrap, Jonathan Hunt, Timothy Mann, Theophane Weber, Thomas Degris, Ben Coppin**
 
-*Deep Mind*
+*Google Deepmind*
 
 **==== NOT FULLY COVERED ===**
 
