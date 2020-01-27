@@ -4,6 +4,8 @@
 
 *Google Research, Brain team*
 
+Implementation: https://github.com/anonymous-code-github/offline-rl
+
 - Goal: benchmark offline and off-policy RL training on Atari 2600 using a log dataset (purely offline) generated from an online learning algorithm.
 - Focus on simplicity
 - In a nutshell, the authors benchmark classical DQN, vs a distributional DQN version (named QR-DQN, previously published, complex), vs 2 simple modifications proposed showing that, not only it is possible to train really offline RL agents from recorded experiences (logs), but also that the resulting agent may be more powerful than the online agent.
