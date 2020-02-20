@@ -48,6 +48,8 @@
 - This algorithm is *self-idempotent* given that if the policy and real distribution are the same, the ratio is 1, and $M=1$ so $ratio > M$ always.
 
 ________
+The ratios of probabilities showed in PSRS and PERS algorithms is the same as in importance sampling. Intuitively, it measures how many times will I sample more a|s in my new policy than in the behavior policy. We want to "correct" the distribution of data collected by the behavior policy using that importance-sampling-ratio distribution. In other words, we will accept more often those samples which are more likely in the policy distribution and reject more often those which are less likely. In the other way, we penalize the samples often sampled by the behavior policy, just because they happen more often and we don't want that bias at the time of evaluating our policy.
+
 The authors show success of this algorithm as compared with the model-based approach consisting on trying to learn the feedback of the system using a model.
 
 The first two algorithms presented here are not applicable to the continuous state cases. PERS is the only scalable one.
