@@ -20,6 +20,7 @@
   complexity order): Queue-based, Per-State Rejection Sampling (PSRS) and Per-Episode
   Rejection Sampling (PERS). All of them can leverage data collected using an unknown
   sample distribution.
+- In general, the idea of PSRS and PERS is to penalize those samples/episodes which  probability of happening under the policy under evaluation is small as compared with the sampling probability (empirical probabilities in the data). These methods have mechanisms for often rejecting the samples difficult to achieve under the policy under evaluation, hence, we will evaluate more often over those cases more often visited by our policy.
 
 ## Queue
 ![](./Offline&#32;Evaluation&#32;of&#32;Online&#32;Reinforcement&#32;Learning&#32;Algorithms/queue.png)
