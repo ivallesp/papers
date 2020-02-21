@@ -1,6 +1,6 @@
 # Offline Evaluation of Online Reinforcement Learning Algorithms
 
-** Travis Mandel, Yun-En Liu, Emma Brunskill, Zoran Popovic**
+**Travis Mandel, Yun-En Liu, Emma Brunskill, Zoran Popovic**
 
 *Proceedings of the 30th AAAI Conference on Artificial Intelligence*
 

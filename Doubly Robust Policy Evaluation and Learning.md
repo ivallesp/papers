@@ -1,5 +1,7 @@
 # Doubly Robust Policy Evaluation and Learning
+
 **Miroslav Dudík, John LangFord, Lihong Li**
+
 *Proceedings of the 28th International Conference on Machine Learning*
 
 This paper introduces Doubly Robust, a statistical approach applied to the contextual bandits problem in its offline version to correct the value estimation.
