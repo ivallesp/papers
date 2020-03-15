@@ -4,6 +4,8 @@
 
 *Springer-Verlag Berlin Heidelberg 2005*
 
+Year: **2005**
+
 - **Objective**: using neural networks to approximate Q-value functions in RL while reducing the interaction with the plant.
   - **Advantages**: ability to approximate non-linear functions. It's a global representation algorithm and this provides the benefit of generalization.
   - **Drawbacks**: neural networks are global representation algorithms, and sometimes a weight change induced by an update in a part of the state space may destroy the learning in other parts of the state space (catastrophic forgetting), leading to long trainings or divergence.

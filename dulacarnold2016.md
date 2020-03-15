@@ -4,6 +4,8 @@
 
 *Google Deepmind*
 
+Year: **2016**
+
 **==== NOT FULLY COVERED ===**
 
 - Goal: design of a policy-based approach to problems with large number of actions.
@@ -14,6 +16,6 @@
 - Over the k closest actions selected by the approximated kNN algorithm, the critic is run and the action leading to the highest bootstraped value is selected using an argmax function (over k actions, instead of over |A|). Another more simplistic alternative would be to use the action which lays closest to the recommended action by the actor; however the authors recommend the former method, given that it is more robust against outliers.
 - The authors named this method *Wolpertinger Policy*.
 
-![](Deep&#32;Reinforcement&#32;Learning&#32;in&#32;Large&#32;Discrete&#32;Action&#32;Spaces/Architecture.png)
+![](dulacarnold2016/Architecture.png)
 
 - The paper claims this method scales up to spaces with more than one million actions.

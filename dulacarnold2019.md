@@ -2,7 +2,9 @@
 
 **Gabriel Dulac-Arnold, Daniel Mankowitz, Todd Hester**
 
-*ICML 2019*
+*International Conference of Machine Learning (ICML) 2019*
+
+Year: **2019**
 
 The overall purpose of the paper is to claim that RL in real world is much more difficult than RL in research. 9 challenges that must be addressed to productionize RL on real world problems are presented. The main problems are that in real world, there is rarely a good simulator, the systems are stochastic and non-stationary, they have safety constraints and running them can be expensive and slow.
 
@@ -13,7 +15,7 @@ This challenge applies often when we are planning to deploy an RL approach to re
 
 $D_{\pi B}$  is the set of experiences produced by policy $\pi_B$. We use $D_{\pi B}$ to train $\pi_0$. Then we use that policy to collect $D_{\pi 0}$, that we use to train $\pi_1$, and so on.
 
-![](Challenges&#32;of&#32;Real-World&#32;Reinforcement&#32;Learning/batchrl.png)
+![](dulacarnold2019/batchrl.png)
 
 It may also be need to estimate the performance of the policy offline, before deploying it. There are several techniques like importance sampling, MAGIC or MRDR. Sometimes, the most important policy to evaluate is the initial one (trained from the $\pi_B$), given that it would provide the warm-start performance which would dictate whether access to the system will be granted.
 

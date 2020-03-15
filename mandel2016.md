@@ -4,6 +4,8 @@
 
 *Proceedings of the 30th AAAI Conference on Artificial Intelligence*
 
+Year: **2016**
+
 - The objective of the paper is to provide a method to offline evaluate a policy, taking
   into account that it will continue learning in the real environment once it is
   deployed. For the latter topic, the we must understand how the agent would have
@@ -23,7 +25,7 @@
 - In general, the idea of PSRS and PERS is to penalize those samples/episodes which  probability of happening under the policy under evaluation is small as compared with the sampling probability (empirical probabilities in the data). These methods have mechanisms for often rejecting the samples difficult to achieve under the policy under evaluation, hence, we will evaluate more often over those cases more often visited by our policy.
 
 ## Queue
-![](./Offline&#32;Evaluation&#32;of&#32;Online&#32;Reinforcement&#32;Learning&#32;Algorithms/queue.png)
+![](mandel2016/queue.png)
 - This method assumes that the state-action space is known. It may not be applicable
   for continuous/large state-action spaces.
 - The algorithm consists of building a mapping of a state-action to a queue of the
@@ -32,7 +34,7 @@
   pop an element from the queue. The estimation finishes when a queue is emptied.
 
 ## PSRS
-![](./Offline&#32;Evaluation&#32;of&#32;Online&#32;Reinforcement&#32;Learning&#32;Algorithms/psrs.png)
+![](mandel2016/psrs.png)
 - PSRS leverages the policy action probabilities (unlike queue does) so that when the sampling and policy probability distributions are the same, more data can be leveraged. Intuitively, if an agent chooses actions similarly to the sample distribution, the collected data is going to be more relevant to the evaluation estimation. This advantage over queue is usually known as leveraging *revealed randomness*.
 - The algorithm consists of building a mapping of state to queue of action-reward-next_state triplets. The goal is to sample a tuple (a, r, s') such that a is sampled from the agent and (r, s') is sampled from the true environment. Getting the sample of a resembling the policy is the challenge here. The authors recommend sampling a using a technique known as "rejection sampling".
 - Rejection sampling consists of (1) calculating the ratio of probabilities policy/real using as real the empirical one given the data (assumption! the authors do not specify that), (2) computing M as the max ratio over the possible actions, and (3) sampling a randomly uniform number $u$ from 0 to M and accepting only those (s,a,r,s') samples for which the ratio is greater than $u$. If the condition is not met, the sample is rejected and not used anymore.
@@ -40,7 +42,7 @@
 - It is important to keep in mind that the current method assumes that the state space is known and finite (and hence discrete). The `max` computation can be intractable as the state space size grows
 
 ## PERS
-![](Offline&#32;Evaluation&#32;of&#32;Online&#32;Reinforcement&#32;Learning&#32;Algorithms/pers.png)
+![](mandel2016/pers.png)
 - This method attempts to solve the state-size computational dependence, while introducing a computational dependence on the size of the episodes.
 - It assumes POMDP or, in other words, it is *representation-agnostic*.
 - Other important assumption is that, as it is a per-episode approach, the episodes must be reconstructed from the logs.
