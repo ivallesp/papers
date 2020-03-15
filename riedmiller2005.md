@@ -1,5 +1,7 @@
 # Neural Fitted Q Iteration - First Experiences with a Data Efficient Neural Reinforcement Learning Method
 
+[Link to the paper](http://ml.informatik.uni-freiburg.de/former/_media/publications/rieecml05.pdf)
+
 **Martin Riedmiller**
 
 *Springer-Verlag Berlin Heidelberg 2005*

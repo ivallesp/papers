@@ -1,4 +1,7 @@
 # Doubly Robust Off-Policy Value Evaluation for Reinforcement Learning
+
+[Link to the paper](https://arxiv.org/abs/1511.03722)
+
 **Nan Jiang and Lihong Li**
 
 *Proceedings of the 33rd International Conference of Machine Learning*

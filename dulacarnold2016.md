@@ -1,5 +1,7 @@
 # Deep Reinforcement Learning in Large Discrete Action Spaces
 
+[Link to the paper](https://arxiv.org/abs/1512.07679)
+
 **Gabriel Dulac-Arnold, Richard Evans, Hado van Hasselt, Peter Sunehag, Timothy Lillicrap, Jonathan Hunt, Timothy Mann, Theophane Weber, Thomas Degris, Ben Coppin**
 
 *Google Deepmind*

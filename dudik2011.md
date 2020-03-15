@@ -1,5 +1,7 @@
 # Doubly Robust Policy Evaluation and Learning
 
+[Link to the paper](https://arxiv.org/abs/1103.4601)
+
 **Miroslav Dudík, John LangFord, Lihong Li**
 
 *Proceedings of the 28th International Conference on Machine Learning*
