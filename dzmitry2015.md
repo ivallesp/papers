@@ -1,14 +1,16 @@
 # Neural Machine Translation by Jointly Learning to Align and Translate
 
-**Dzmitry Bahdanau**
+**Dzmitry Bahdanau, KyungHyun Cho, Yoshua Bengio**
 
 *International Conference of Learning Representations (ICLR 2015)*
+
+Year: **2015**
 
 The current article focuses on the field of *neural machine translation*, pointing out that one of the potential limitations of the seq-to-seq approach is that it compresses all the input sentence into a fixed-length vector. The authors propose an extension of the encoder-decoder seq-to-seq setting which later on will be known as **the attention mechanism** (they call it learning to align and translate jointly).
 
 The difference between this approach and the classical S2S is that instead of encoding all the input sentence into a fixed-length vector, it encodes it into a sequences of vectors corresponding to difference sequence steps of the input sentence, which will be combined adaptively in each step of the decoder.
 
-![](./Neural&#32;Machine&#32;Translation&#32;by&#32;Jointly&#32;Learning&#32;to&#32;Align&#32;and&#32;Translate/architecture.png)
+![](./dzmitry2015/architecture.png)
 
 The figure above shows, at a glance, how the attention mechanism works.
 - First, on the bottom, we have a bidirectional encoder that process the input sentence $x_1, x_2... x_T$.
@@ -26,14 +28,14 @@ One important note that the authors give us in the document is the reason of use
 
 The authors apply this model (RNNSearch) along with a vanilla seq-to-seq (RNNencdec) to an English-French parallel corpora of sentences. In order to highlight its benefits, the authors separate the sentences by length. The figure below shows that the current proposal performs much better with longer sequences.
 
-![](Neural&#32;Machine&#32;Translation&#32;by&#32;Jointly&#32;Learning&#32;to&#32;Align&#32;and&#32;Translate/chart-comp.png)
+![](dzmitry2015/chart-comp.png)
 
 The following table shows, quantitatively, that the proposal beats the benchmark.
 
-![](Neural&#32;Machine&#32;Translation&#32;by&#32;Jointly&#32;Learning&#32;to&#32;Align&#32;and&#32;Translate/table-results.png)
+![](dzmitry2015/table-results.png)
 
 The authors finally provide an empirical proof of the alignment effect that the new implementation provides. They have plotted in a graph which are the attention energies for each of the encoder_input x decoder_output cases. The following figure shows how english and french hold an almost perfect monotonicity between input words and output words.
 
-![](Neural&#32;Machine&#32;Translation&#32;by&#32;Jointly&#32;Learning&#32;to&#32;Align&#32;and&#32;Translate/alignment.png)
+![](dzmitry2015/alignment.png)
 
 The authors showed that it is possible to align and translate sentences at the same time while optimizing for both in the same gradient step. As a future research line, they suggest to look for ways of dealing with very large vocabularies without having to include "UNK" symbols.

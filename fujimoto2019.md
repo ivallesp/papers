@@ -4,6 +4,8 @@
 
 *ICML 2019*
 
+Year: **2019**
+
 GitHub: https://github.com/sfujim/BCQ
 
 Objective: Learn from a fixed batch of data that has already been collected, without the possibility of further data collection
@@ -25,7 +27,7 @@ To assess the performance of raw off-policy on-batch RL, the authors have perfor
 - Imitation: a well trained DDPG agent has been used to generate data. So only data from expert policy has been collected.
 
 The results of the previous experiments are summarized in the following picture
-![](Off-policy&#32;Deep&#32;Reinforcement&#32;Learning&#32;without&#32;Exploration/experiments.png)
+![](fujimoto2019/experiments.png)
 
 
 - Even if it seems that in the final buffer case the off-policy algorithm achieved some intermediate results, when looking at the value function one can notice that the extrapolation error had a dramatic effect there.
@@ -40,11 +42,11 @@ The BCQ solution proposed by the authors consists of 4 parametrized models:
 - A conditional VAE that generates samples by mapping a latent space to the batch distribution, conditioned to the state
 - A perturbation model that helps reducing the big number of evaluations required on the VAE
 - Two Q-learning networks in a Clipped Double Q-learning structure (equation below).
-![](Off-policy&#32;Deep&#32;Reinforcement&#32;Learning&#32;without&#32;Exploration/../Off-policy&#32;Deep&#32;Reinforcement&#32;Learning&#32;without&#32;Exploration/double-clipped-q.png).
+![](fujimoto2019/double-clipped-q.png).
 
 The results achieved by the BCQ algorithm are outstanding. They are summarized in the following figure. The set of "imperfect demonstrations" refers to an expert policy with a high exploration rate and noise added:
-![](Off-policy&#32;Deep&#32;Reinforcement&#32;Learning&#32;without&#32;Exploration/../Off-policy&#32;Deep&#32;Reinforcement&#32;Learning&#32;without&#32;Exploration/results.png)
+![](fujimoto2019/results.png)
 
-![](Off-policy&#32;Deep&#32;Reinforcement&#32;Learning&#32;without&#32;Exploration/../Off-policy&#32;Deep&#32;Reinforcement&#32;Learning&#32;without&#32;Exploration/results_value.png)
+![](fujimoto2019/results_value.png)
 
 BCQ is the only algorithm that outperforms all the tasks in all the batches. It also achieves, as it can be seen in the previous figure, non biased estimates of the value function.

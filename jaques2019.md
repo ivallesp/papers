@@ -4,6 +4,8 @@
 
 *Cambridge, preprint. Under review*
 
+Year: **2019**
+
 Implementation: https://github.com/natashamjaques/neural_chat/tree/master/rl
 
 Motivation: Off-policy as a mechanism to solve situations where (1) collecting data is costly and time consuming, (2) test before real world deployment is required

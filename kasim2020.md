@@ -2,7 +2,11 @@
 
 **M. F. Kasim, D. Watson-Parris, L. Deaconu, S. Oliver, P. Hatfield, D. H. Froula, G. Gregori, M. Jarvis, S. Khatiwala, J. Korenaga, J. Topp-Mugglestone, E. Viezzer, S. M. Vinko**
 
-![](Up&#32;to&#32;two&#32;billion&#32;times&#32;acceleration&#32;of&#32;scientific&#32;simulations&#32;with&#32;deep&#32;neural&#32;architecture&#32;search/arch.png)
+*Science*
+
+Year: **2020**
+
+![](kasim2020/arch.png)
 - Simulation vs emulation. Sometimes a simulation needs to be run with low latency, and they can take days to run. One way of achieving a low-latency high-fidelity approximate simulation is through an emulator. This technique consists of training a ML model to approximate the outcome of a simulator.
 - A lot of effort has been done in this topic using deep learning techniques and the authors claim that the best way of doing so is through network search. This is because the priors of the models are inherent to their architectures
 - The paper hence proposes DENSE Deep Emulator Network SEarch), a new approach based on "superarchitectures" to find the optimal architecture for each simulation.

@@ -4,6 +4,8 @@
 
 *Proceedings of the 28th International Conference on Machine Learning*
 
+Year: **2011**
+
 This paper introduces Doubly Robust, a statistical approach applied to the contextual bandits problem in its offline version to correct the value estimation.
 
 At the time the paper was published, there were two main approaches for addressing that problem:
@@ -12,9 +14,9 @@ At the time the paper was published, there were two main approaches for addressi
 
 Doubly Robust (DR) is a statistical method for estimating parameters from incomplete data. It has the property of giving an unbiased estimator if either one of the two estimators (DM/IPS) is correct.
 
-![](Doubly&#32;Robust&#32;Policy&#32;Evaluation&#32;and&#32;Learning/formula.png)
+![](dudik2011/formula.png)
 
 As it can be noticed in the equation, the DR has two estimators: $\hat{Q}$ and $\hat{p}$. The estimator uses $\hat{Q}$ as baseline. DR is accurate if at least one of the estimators is accurate.
 
 The authors show empirically that it improves the accuracy over IPS and DM along several problems.
-![](Doubly&#32;Robust&#32;Policy&#32;Evaluation&#32;and&#32;Learning/performance.png)
+![](dudik2011/performance.png)
