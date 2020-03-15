@@ -30,4 +30,4 @@ This repository contains my personal **Notes** about the papers I read. The pape
 
 [[**Notes**](zhao2018.md)] [[Paper](https://ieeexplore.ieee.org/document/8396173)] – 2018 – **Handling Large-Scale Action Space in Deep Q Network** – Zhiheng Zhao, Yi Liang, Xiaoming Ji – *2018 International Conference on Artificial Intelligence and Big Data*
 
-[[**Notes**](chollet2017.md)] [[Paper](https://arxiv.org/abs/1610.02357)] – 2017 – **Deep Learning with Depthwise Separable Convolutions** – François Chollet – *Google report*
+[[**Notes**](chollet2017.pdf)] [[Paper](https://arxiv.org/abs/1610.02357)] – 2017 – **Deep Learning with Depthwise Separable Convolutions** – François Chollet – *Google report*
