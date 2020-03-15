@@ -1,5 +1,7 @@
 # Q-Learning in enormous action spaces via amortized approximate maximization
 
+[Link to the paper](https://arxiv.org/abs/2001.08116)
+
 **Tom Van de Wiele, David Warde-Farley, Andriy Mnih & Volodymyr Mnih**
 
 *DeepMind report*

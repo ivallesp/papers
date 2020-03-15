@@ -1,5 +1,7 @@
 # Up to two billion times acceleration of scientific simulations with deep neural architecture search
 
+[Link to the paper](https://arxiv.org/abs/2001.08055)
+
 **M. F. Kasim, D. Watson-Parris, L. Deaconu, S. Oliver, P. Hatfield, D. H. Froula, G. Gregori, M. Jarvis, S. Khatiwala, J. Korenaga, J. Topp-Mugglestone, E. Viezzer, S. M. Vinko**
 
 *Science*

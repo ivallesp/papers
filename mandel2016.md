@@ -1,5 +1,7 @@
 # Offline Evaluation of Online Reinforcement Learning Algorithms
 
+[Link to the paper](http://grail.cs.washington.edu/projects/nonstationaryeval/nonstationaryevalExtended.pdf)
+
 **Travis Mandel, Yun-En Liu, Emma Brunskill, Zoran Popovic**
 
 *Proceedings of the 30th AAAI Conference on Artificial Intelligence*

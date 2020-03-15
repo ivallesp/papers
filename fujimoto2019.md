@@ -1,5 +1,7 @@
 # Off-Policy Deep Reinforcement Learning without Exploration
 
+[Link to the paper](https://arxiv.org/abs/1812.02900)
+
 **Scott Fujimoto, David Meger, Doina Precup**
 
 *ICML 2019*

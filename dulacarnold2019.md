@@ -1,5 +1,7 @@
 # Challenges of Real-World Reinforcement Learning
 
+[Link to the paper](https://arxiv.org/abs/1904.12901)
+
 **Gabriel Dulac-Arnold, Daniel Mankowitz, Todd Hester**
 
 *International Conference of Machine Learning (ICML) 2019*

@@ -1,5 +1,8 @@
 # Striving for simplicity in off-policy deep reinforcement learning
 
+[Link to the paper](https://arxiv.org/abs/1907.04543)
+
+
 **Rishabh Agarwal, Dale Schuurmans, Mohammad Norouzi**
 
 *Neural Information Processing Systems (NeurIPS) 2019*
@@ -7,6 +10,8 @@
 Year: **2019**
 
 Implementation: https://github.com/anonymous-code-github/offline-rl
+
+
 
 - Goal: benchmark offline and off-policy RL training on Atari 2600 using a log dataset (purely offline) generated from an online learning algorithm.
 - Focus on simplicity
