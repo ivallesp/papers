@@ -116,4 +116,5 @@ The results show that the current proposal:
 
 ## Additional References
 - [Official implementation in LUA](https://github.com/facebookresearch/fairseq)
+- [Very well written implementation in a notebook](https://github.com/bentrevett/pytorch-seq2seq/blob/master/5%20-%20Convolutional%20Sequence%20to%20Sequence%20Learning.ipynb)
 - [Blog post linking a clearer implementation in Python](http://vandergoten.ai/2018-10-13-convolutional-sequence-to-sequence-learning/)
