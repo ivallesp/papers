@@ -2,6 +2,8 @@
 
 This repository contains my personal **Notes** about the papers I read. The papers below belong to different subfields of artificial intelligence (e.g. deep learning and reinforcement learning).
 
+[[**Notes**](gehring2017.md)] [[Paper](https://arxiv.org/abs/1705.03122)] – 2017 – **Convolutional Sequence to Sequence Learning** – Jonas Gehring, Michael Auli, David Grangier, Denis Yarats, Yann N. Dauphin – *International Conference of Machine Learning (ICML) 2017*
+
 [[**Notes**](riedmiller2005.md)] [[Paper](http://ml.informatik.uni-freiburg.de/former/_media/publications/rieecml05.pdf)] – 2005 – **Neural Fitted Q Iteration - First Experiences with a Data Efficient Neural Reinforcement Learning Method** – Martin Riedmiller – *Springer-Verlag Berlin Heidelberg 2005*
 
 [[**Notes**](dulacarnold2019.md)] [[Paper](https://arxiv.org/abs/1904.12901)] – 2019 – **Challenges of Real-World Reinforcement Learning** – Gabriel Dulac-Arnold, Daniel Mankowitz, Todd Hester – *International Conference of Machine Learning (ICML) 2019*
