@@ -74,6 +74,10 @@ Allows every position in the decoder to attend over all positions in the input s
 The authors apply the current setting over different translation tasks, English to French and English to German, concluding:
 - The current setting improves the state of the art performance
 - The current setting is much faster than previous efforts, given that it allows more parallelization
-  
+
 ![](vaswani2017/complexity.png)
 ![](vaswani2017/performance.png)
+
+## References
+- [CS480/680 Lecture 19: Attention and Transformer Networks](https://www.youtube.com/watch?v=OyFJWRnt_AY)
+  
