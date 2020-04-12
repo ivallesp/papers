@@ -94,3 +94,4 @@ The authors apply the current setting over different translation tasks, English 
 - [Annotated paper with Pytorch implementation](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
 - [The illustrated transformer](http://jalammar.github.io/illustrated-transformer/)
 - [Lukasz Kaiser masterclass](https://www.youtube.com/watch?v=rBCqOTEfxvg)
+- [Efficient implementation in Pytorch](https://arogozhnikov.github.io/einops/pytorch-examples.html)
