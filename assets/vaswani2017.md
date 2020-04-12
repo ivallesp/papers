@@ -6,9 +6,13 @@
 
 **Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin**
 
-Objective: enhance parallelization in sequence to sequence tasks by getting rid of the RNN and CNN modules.
+[Official implementation](https://github.com/tensorflow/tensor2tensor)
+
+Objective: enhance parallelization in sequence to sequence tasks by getting rid of the RNN and CNN modules: transformer.
 
 Intuition: since with the attention mechanism we collect the signals at each time step directly (dynamically weight using attention), we no longer need to sequentially propagate an combine the signals down to the final time step. Hence RNNs are no longer needed, allowing much more powerful parallelization.
+
+- Previous efforts have been done where CNNs where used to make the sequence to sequence problem more easy to parallelize. But one of the most criticised aspects of these approaches is that the number of operations required to learn temporal dependencies depends on the distance between the related positions. In ConvS2S that dependence is linear, and in ByteNet it is log-linear. However, the architecture proposed in this work has a constant dependence here.
 
 - In an encoder-decoder setting, the encoder maps the input sequence $\mathbf{x} = (x_1, x_2, ..., x_n)$ to a sequence of continuous representations $\mathbf{z} = (z_1, z_2, ..., z_n)$. Given $\mathbf{z}$, the decoder outputs $\mathbf{y} = (y_1, y_2, ..., y_m)$. At each of the $m$ output steps, the model is autoregressive.
 - The transformer works in the same overall way the encoder-decoder setting does.
@@ -41,17 +45,18 @@ First, let's quickly remember what attention is.
 $C(Q,K,V) = \text{softmax}(f(Q, K)) \cdot V$
 
 Where $f(Q, K)$ is a function that computes the similarity between Q and K. Here, there are multiple choices; the most common ones are:
-- Dot product: $Q^T \cdot K$
-- Scaled dot product: $(Q^T\cdot K) /\sqrt {d_k}$
-- General dot product: $Q^T \cdot W \cdot K$
+- Dot product: $Q \cdot K^T$
+- Scaled dot product: $(Q \cdot K^T) /\sqrt {d_k}$
+- General dot product: $Q \cdot W \cdot K^T$
 - Additive similarity: $W_Q^T \cdot Q + W_K^T\cdot K$
 
 The paper uses the scaled dot product. The authors highlight the importance of scaling the dot-product in order to have a constant small variance independently of the size of the multiplied vectors.
 
-Now, multi-head attention just consists of applying a linear projection to $Q$, $K$ and $V$ and the scaled dot product operation multiple times (number of heads denoted by $h$ – in the paper $h=8$). After all these computations, the outputs are concatenated and it's size is adjusted using a linear projection. The picture below summarizes the process very concisely.
+Now, multi-head attention's main idea is to compute multiple attentions per query with different weights. More specifically, it consists of applying linear projections to $Q$, $K$ and $V$ and the scaled dot product operation multiple times (number of heads denoted by $h$ – in the paper $h=8$). After all these computations, the outputs are concatenated and it's size is adjusted using a linear projection. The picture below summarizes the process very concisely.
 
 ![](vaswani2017/mh-attention.png)
 ![](vaswani2017/mh-details.png)
+![](vaswani2017/matrix_computations.png)
 
 Intuitively, you can look at the different heads in the computation as different feature maps in the convolutional neural networks.
 
@@ -70,6 +75,12 @@ Allows every position in the decoder to attend over all positions in the input s
 - Query: Output of the decoder multi-head attention layer
 - Key = Value: encoder hidden state vectors
 
+## Tricks of the trade
+- The Adam optimizer lr has a warm-up phase and a cool-down one. The training starts from a very small learning rate, it is increased over time, and later it is decreased again.
+- Residual dropout with $P_{\text{drop}} = 0.1$ is used. This is dropout at the output of each layer, before the layer normalization and the residual connection addition.
+- Dropout after the sum of the embeddings and at the positional embedding is also added.
+- Sine and cosine functions at different frequencies are used as alternative of positional embeddings.
+
 ## Results
 The authors apply the current setting over different translation tasks, English to French and English to German, concluding:
 - The current setting improves the state of the art performance
@@ -80,4 +91,6 @@ The authors apply the current setting over different translation tasks, English 
 
 ## References
 - [CS480/680 Lecture 19: Attention and Transformer Networks](https://www.youtube.com/watch?v=OyFJWRnt_AY)
-  
+- [Annotated paper with Pytorch implementation](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
+- [The illustrated transformer](http://jalammar.github.io/illustrated-transformer/)
+- [Lukasz Kaiser masterclass](https://www.youtube.com/watch?v=rBCqOTEfxvg)
