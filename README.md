@@ -2,6 +2,10 @@
 
 This repository contains my personal **Notes** about the papers I read. The papers below belong to different subfields of artificial intelligence (e.g. deep learning and reinforcement learning).
 
+
+[[**Notes**](assets/mnih2016.md)] [[Paper](https://arxiv.org/abs/1602.01783)] – 2016 – **Asynchronous Methods for Deep Reinforcement Learning** – Volodymyr Mnih, Adrià Puigdomènech Badia, Mehdi Mirza, Alex Graves, Timothy P. Lillicrap, Tim Harley, David Silver, Koray Kavukcuoglu – *Proceedings of The 33rd International Conference on Machine Learning*
+
+
 [[**Notes**](assets/raghu2020.md)] [[Paper](https://arxiv.org/abs/2003.11755)] – 2020 – **A Survey of Deep Learning for Scientific Discovery** – Maithra Raghu, Eric Schmidt – *Cornell Univeristy and Schmidt Futures report*
 
 [[**Notes**](assets/vaswani2017.md)] [[Paper](https://arxiv.org/abs/1706.03762)] – 2017 – **Attention Is All You Need** – Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin – *Neural Information Processing Systems (NIPS) 2017*
