@@ -3,6 +3,8 @@
 This repository contains my personal **Notes** about the papers I read. The papers below belong to different subfields of artificial intelligence (e.g. deep learning and reinforcement learning).
 
 
+[[**Notes**](assets/schulman2015.md)] [[Paper](https://arxiv.org/abs/1502.05477)] – 2015 – **Trust Region Policy Optimization** – John Schulman, Sergey Levine, Philipp Moritz, Michael I. Jordan, Pieter Abbeel – *Proceedings of the 31st International Conference on Machine Learning*
+
 [[**Notes**](assets/mnih2016.md)] [[Paper](https://arxiv.org/abs/1602.01783)] – 2016 – **Asynchronous Methods for Deep Reinforcement Learning** – Volodymyr Mnih, Adrià Puigdomènech Badia, Mehdi Mirza, Alex Graves, Timothy P. Lillicrap, Tim Harley, David Silver, Koray Kavukcuoglu – *Proceedings of The 33rd International Conference on Machine Learning*
 
 
