@@ -81,3 +81,23 @@ In the following table, the authors compare three versions of the current algori
 Finally, the authors share a table with the results over all the Atari games and compare them with A2C and ACER algorithms.
 
 ![](schulman2017/atari-games-results-ppo.png)
+
+
+## Intuition
+- In RL, the data on which the neural network learns depends on the current policy, rather than relying in a static dataset as is the case in supervised learning.
+- The Advantage function is calculated as Return - Baseline_estimate. It quantifies how much better was the action that the agent chose based on the expectation of what it would normally happen in the state the agent was. Was the agent action better or worse than expected?
+- Clipping the policy objective can be justified because the advantage function is nothing but a noisy estimate. We cannot fully 0trust a noisy estimate and hence we have to limit the updates.
+
+|                      | $\pi>>>\pi_{old}$ ($r$ is large) | $\pi<<<\pi_{old}$ ($r$ is small) |
+| :------------------: | :------------------------------: | :------------------------------: |
+| A>0 (action is good) |               CLIP               |             NO CLIP              |
+| A<0 (action is bad)  |             NO CLIP              |               CLIP               |
+
+Notice that we are clipping in the cases in which the agent found a good action and is increasing the probability and when the agent found a bad action and is decreasing the probability. We are limiting the updates that seem consistent with the advantage function. In other words, the current policy is pessimistic and conservative, it doesn't fully rely on the advantage function. The cases where we don't clip $r$ correspond to the situations where the agent is correcting it's own overshoots.
+
+
+## Additional references
+- PG methods and PPO (video from Arxiv Insights): https://www.youtube.com/watch?v=5P7I-xPq8u8
+- PPO clean implementation: https://github.com/higgsfield/RL-Adventure-2/blob/master/3.ppo.ipynb
+- PPO official OpenAI blog post: https://blog.openai.com/openai-baselines-ppo/
+- OpenAI baselines PPO implementations: https://github.com/openai/baselines/tree/master/baselines/ppo2 and https://github.com/openai/baselines/tree/master/baselines/ppo1
