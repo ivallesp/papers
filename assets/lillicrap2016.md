@@ -23,3 +23,10 @@ This paper presents consequent of the DQN algorithm which is applicable to probl
 
 ![](lillicrap2016/curves-ddpg.png)
 ![](lillicrap2016/table-results-ddpg.png)
+
+## Intuition notes
+DDPG, as opposed to DQN, uses a local search method (gradient descent) and that is why it is applicable to continuous action spaces. These are known as Pontryagine methods and the ones aiming to find the global optimum are known as Bellman methods. Here, instead of trying to find the optimum over all the actions, we find the gradient of the Q function over the input (the actions) or, in other words, we wiggle the action values to find de direction that makes the Q increase. Then, we use that wiggling on the actions  (the gradient) in order to tell the actor network how to update the parameters of the network that will lead to a better policy. In the figure below the gradient flow is highlighted. Note that this intuition applies the same way to the DPG algorithm, DDPG just applies small tricks to make DPG converge under the use of Deep Learning estimators.
+![](lillicrap2016/gradient-flow-ddpg.png)
+
+## Additional references
+- YouTube video explaining DDPG: https://www.youtube.com/watch?v=_pbd6TCjmaw
