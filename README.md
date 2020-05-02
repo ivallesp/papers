@@ -4,6 +4,8 @@ This repository contains my personal **Notes** about the papers I read. The pape
 
 [[**Notes**](assets/lillicrap2016.md)] [[Paper](https://arxiv.org/abs/1509.02971)] – 2016 – **Continuous control with Deep Reinforcement Learning** – Timothy P. Lillicrap, Jonathan J. Hunt, Alexander Pritzel, Nicolas Heess, Tom Erez, Yuval Tassa, David Silver, Daan Wierstra – *International Conference of Learning Representations, 2016*
 
+[[**Notes**](assets/silver2014.md)] [[Paper](http://proceedings.mlr.press/v32/silver14.pdf)] – 2014 – **Deterministic Policy Gradient Algorithms** – David Silver, Guy Lever, Nicolas Heess, Thomas Degris, Daan Wierstra, Martin Riedmille – *International Conference on Machine Learning, 2014*
+
 [[**Notes**](assets/schulman2017.md)] [[Paper](https://arxiv.org/abs/1707.06347)] – 2017 – **Proximal Policy Optimization Algorithms** – John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, Oleg Klimov – *OpenAI Report*
 
 [[**Notes**](assets/schulman2015.md)] [[Paper](https://arxiv.org/abs/1502.05477)] – 2015 – **Trust Region Policy Optimization** – John Schulman, Sergey Levine, Philipp Moritz, Michael I. Jordan, Pieter Abbeel – *Proceedings of the 31st International Conference on Machine Learning*
