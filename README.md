@@ -2,6 +2,8 @@
 
 This repository contains my personal **Notes** about the papers I read. The papers below belong to different subfields of artificial intelligence (e.g. deep learning and reinforcement learning).
 
+[[**Notes**](assets/haarnoja2018.md)] [[Paper](https://arxiv.org/abs/1801.01290)] – 2018 – **Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor** – Tuomas Haarnoja, Aurick Zhou, Pieter Abbeel, Sergey Levine – *International Conference of Learning Representations, 2018*
+
 [[**Notes**](assets/lillicrap2016.md)] [[Paper](https://arxiv.org/abs/1509.02971)] – 2016 – **Continuous control with Deep Reinforcement Learning** – Timothy P. Lillicrap, Jonathan J. Hunt, Alexander Pritzel, Nicolas Heess, Tom Erez, Yuval Tassa, David Silver, Daan Wierstra – *International Conference of Learning Representations, 2016*
 
 [[**Notes**](assets/silver2014.md)] [[Paper](http://proceedings.mlr.press/v32/silver14.pdf)] – 2014 – **Deterministic Policy Gradient Algorithms** – David Silver, Guy Lever, Nicolas Heess, Thomas Degris, Daan Wierstra, Martin Riedmille – *International Conference on Machine Learning, 2014*
