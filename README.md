@@ -4,6 +4,7 @@ This repository contains my personal **notes** about the papers I read since the
 
 I usually complement my notes with some scraps of the paper that I consider important, and in some cases with some additional information such as content from other papers, from videos or blogs that I found useful in my process of understanding the paper. In the latter case, I usually link the additional resources into the references section; in case you find your content in my notes and I didn't reference it properly, please feel free to open an issue and I will update my notes accordingly.
 
+The majority of my notes are written in markdown and contain LaTeX formulas. GitHub doesn't parse the formulas so if you want to read my notes more comfortably you should use a markdown interpreter that implements this feature. I personally use VSCode with the _LaTeX Workshop_ extension.
 
 [[**Notes**](assets/haarnoja2018.md)] [[Paper](https://arxiv.org/abs/1801.01290)] – 2018 – **Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor** – Tuomas Haarnoja, Aurick Zhou, Pieter Abbeel, Sergey Levine – *International Conference of Learning Representations, 2018*
 
