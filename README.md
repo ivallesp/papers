@@ -1,9 +1,10 @@
 # Paper **Notes**
 
-This repository contains my personal **notes** about the papers I read since the start of 2020. The papers below belong to different subfields of artificial intelligence (e.g. deep learning and reinforcement learning). 
+This repository contains my personal **notes** about the papers I read since the start of 2020. The papers below belong to different subfields of artificial intelligence (e.g. deep learning and reinforcement learning).
 
 I usually complement my notes with some scraps of the paper that I consider important, and in some cases with some additional information such as content from other papers, from videos or blogs that I found useful in my process of understanding the paper. In the latter case, I usually link the additional resources into the references section; in case you find your content in my notes and I didn't reference it properly, please feel free to open an issue and I will update my notes accordingly.
 
+[[**Notes**](assets/wu2020.md)] [[Paper](https://arxiv.org/abs/2001.08317)] – 2020 – **Deep Transformer Models for Time Series Forecasting: The Influenza Prevalence Case** – Neo Wu, Bradley Green, Xue Ben, Shawn O'Banion – *Proceedings of the International Conference of Machine Learning (ICML), 2020*
 
 [[**Notes**](assets/haarnoja2018.md)] [[Paper](https://arxiv.org/abs/1801.01290)] – 2018 – **Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor** – Tuomas Haarnoja, Aurick Zhou, Pieter Abbeel, Sergey Levine – *International Conference of Learning Representations, 2018*
 
