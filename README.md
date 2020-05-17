@@ -6,6 +6,8 @@ I usually complement my notes with some scraps of the paper that I consider impo
 
 The majority of my notes are written in markdown and contain LaTeX formulas. GitHub doesn't parse the formulas so if you want to read my notes more comfortably you should use a markdown interpreter that implements this feature. I personally use VSCode with the _LaTeX Workshop_ extension.
 
+[[**Notes**](assets/frankle2018.md)] [[Paper](https://arxiv.org/abs/1803.03635)] – 2018 – **The lottery ticket hypothesis: finding sparse, trainable neural networks** – Jonathan Frankle, Michael Carbin – *International Conference of Machine Learning (ICML) 2019*
+
 [[**Notes**](assets/shunyao2019.md)] [[Paper](https://arxiv.org/abs/1809.04206)] – 2019 – **Temporal Pattern Attention for Multivariate Time Series Forecasting** – Shun-Yao Shih, Fan-Keng Sun, Hung-yi Lee – *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD) 2019*
 
 [[**Notes**](assets/wu2020.md)] [[Paper](https://arxiv.org/abs/2001.08317)] – 2020 – **Deep Transformer Models for Time Series Forecasting: The Influenza Prevalence Case** – Neo Wu, Bradley Green, Xue Ben, Shawn O'Banion – *Proceedings of the International Conference of Machine Learning (ICML), 2020*
