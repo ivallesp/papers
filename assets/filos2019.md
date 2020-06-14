@@ -49,3 +49,5 @@ The results over the data are shown in the pictures below.AUC and Accuracy varia
 The authors have applied the same methods to a set of datasets from the UCI repository, arriving to similar conclusions.
 
 ![](filos2019/UCI-results.png)
+
+Note 1: the code in the github repository suggests that for regression tasks, the std of the approximated distributions (from MC samples), can be used in place of the entropy for regression tasks.
