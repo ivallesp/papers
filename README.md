@@ -6,6 +6,8 @@ I usually complement my notes with some scraps of the paper that I consider impo
 
 The majority of my notes are written in markdown and contain LaTeX formulas. GitHub doesn't parse the formulas so if you want to read my notes more comfortably you should use a markdown interpreter that implements this feature. I personally use VSCode with the _LaTeX Workshop_ extension.
 
+[[**Notes**](assets/lakshminarayanan2017.md)] [[Paper](https://arxiv.org/abs/1612.01474)] – 2017 – **Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles** – Balaji Lakshminarayanan, Alexander Pritzel, Charles Blundell – *Neural Information Processing Systems (NeurIPS) 2017*
+
 [[**Notes**](assets/filos2019.md)] [[Paper](https://arxiv.org/abs/1912.10481)] – 2019 – **A Systematic Comparison of Bayesian Deep Learning Robustness in Diabetic Retinopathy Tasks** – Angelos Filos, Sebastian Farquhar, Aidan N. Gomez, Tim G. J. Rudner, Zachary Kenton, Lewis Smith, Milad Alizadeh, Arnoud de Kroon, Yarin Gal – *Neural Information Processing Systems (NeurIPS, Bayesian DL workshop) 2019*
 
 [[**Notes**](assets/gal2016.md)] [[Paper](https://arxiv.org/abs/1506.02142)] – 2016 – **Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning** –Yarin Gal and Zoubin Ghahramani – *International Conference of Machine Learning (ICML) 2019*
