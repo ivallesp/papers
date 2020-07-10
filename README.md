@@ -6,6 +6,8 @@ I usually complement my notes with some scraps of the paper that I consider impo
 
 The majority of my notes are written in markdown and contain LaTeX formulas. GitHub doesn't parse the formulas so if you want to read my notes more comfortably you should use a markdown interpreter that implements this feature. I personally use VSCode with the _LaTeX Workshop_ extension.
 
+[[**Notes**](assets/devlin2019.md)] [[Paper](https://arxiv.org/abs/1810.04805)] – 2019 – **BERT: Pre-training of Deep Bidirectional Transformers for language Understanding** – Jacob Devlin, Ming-Wei Cheng, Kenton Lee, Kristina Toutanova – *North American Chapter of the Association for Computational Linguistics (NAACL) 2019*
+
 [[**Notes**](assets/cai2020.md)] [[Paper](https://arxiv.org/abs/1908.09791)] – 2020 – **Once-for-All: Train One Network and Specialize it for Efficient Deployment** – Han Cai, Chuang Gan, Tianzhe Wang, Zhekai Zhang, Song Han – *International Conference of Learning Representations (ICLR) 2020*
 
 [[**Notes**](assets/lakshminarayanan2017.md)] [[Paper](https://arxiv.org/abs/1612.01474)] – 2017 – **Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles** – Balaji Lakshminarayanan, Alexander Pritzel, Charles Blundell – *Neural Information Processing Systems (NeurIPS) 2017*
