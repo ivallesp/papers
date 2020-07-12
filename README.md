@@ -20,11 +20,11 @@ The majority of my notes are written in markdown and contain LaTeX formulas. Git
 
 [[**Notes**](assets/filos2019.md)] [[Paper](https://arxiv.org/abs/1912.10481)] – 2019 – **A Systematic Comparison of Bayesian Deep Learning Robustness in Diabetic Retinopathy Tasks** – Angelos Filos, Sebastian Farquhar, Aidan N. Gomez, Tim G. J. Rudner, Zachary Kenton, Lewis Smith, Milad Alizadeh, Arnoud de Kroon, Yarin Gal – *Neural Information Processing Systems (NeurIPS, Bayesian DL workshop) 2019*
 
-[[**Notes**](assets/gal2016.md)] [[Paper](https://arxiv.org/abs/1506.02142)] – 2016 – **Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning** –Yarin Gal and Zoubin Ghahramani – *International Conference of Machine Learning (ICML) 2019*
+[[**Notes**](assets/gal2016.md)] [[Paper](https://arxiv.org/abs/1506.02142)] – 2016 – **Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning** –Yarin Gal and Zoubin Ghahramani – *International Conference of Machine Learning (ICML) 2016*
 
 [[**Notes**](assets/sun2019.md)] [[Paper](https://arxiv.org/abs/1912.08957)] – 2018 – **Optimization for deep learning: theory and algorithms** – Ruoyu Sun – *University of Illinois report*
 
-[[**Notes**](assets/frankle2018.md)] [[Paper](https://arxiv.org/abs/1803.03635)] – 2018 – **The lottery ticket hypothesis: finding sparse, trainable neural networks** – Jonathan Frankle, Michael Carbin – *International Conference of Machine Learning (ICML) 2019*
+[[**Notes**](assets/frankle2018.md)] [[Paper](https://arxiv.org/abs/1803.03635)] – 2018 – **The lottery ticket hypothesis: finding sparse, trainable neural networks** – Jonathan Frankle, Michael Carbin – *International Conference of Machine Learning (ICML) 2018*
 
 [[**Notes**](assets/shunyao2019.md)] [[Paper](https://arxiv.org/abs/1809.04206)] – 2019 – **Temporal Pattern Attention for Multivariate Time Series Forecasting** – Shun-Yao Shih, Fan-Keng Sun, Hung-yi Lee – *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD) 2019*
 
