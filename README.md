@@ -6,6 +6,8 @@ I usually complement my notes with some scraps of the paper that I consider impo
 
 The majority of my notes are written in markdown and contain LaTeX formulas. GitHub doesn't parse the formulas so if you want to read my notes more comfortably you should use a markdown interpreter that implements this feature. I personally use VSCode with the _LaTeX Workshop_ extension.
 
+[[**Notes**](assets/prateek2019.md)] [[Paper](https://arxiv.org/abs/1904.02790)] – 2019 – **In Other News: A Bi-style Text-to-speech Model for Synthesizing Newscaster Voice with Limited Data** – Nishant Prateek, Mateusz Łajszczak, Roberto Barra-Chicote, Thomas Drugman, Jaime Lorenzo-Trueba, Thomas Merritt, Srikanth Ronanki, Trevor Wood – *North American Chapter of the Association for Computational Linguistics: Human Language Technologies, 2019*
+
 [[**Notes**](assets/zhou2019.md)] [[Paper](https://arxiv.org/abs/1905.01067)] – 2019 – **Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask** – Hattie Zhou, Janice Lan, Rosanne Liu, Jason Yosinski – *Neural Information Processing Systems (NeurIPS) 2019*
 
 [[**Notes**](assets/vanderoord2016.md)] [[Paper](https://arxiv.org/abs/1609.03499)] – 2016 – **WaveNet: A Generative Model for Raw Audio** – Aaron van den Oord, Sander Dieleman, Heiga Zen, Karen Simonyan, Oriol Vinyals, Alex Graves, Nal Kalchbrenner, Andrew Senior, Koray Kavukcuoglu – *DeepMind report 2016*
