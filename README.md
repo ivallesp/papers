@@ -6,6 +6,8 @@ I usually complement my notes with some scraps of the paper that I consider impo
 
 The majority of my notes are written in markdown and contain LaTeX formulas. GitHub doesn't parse the formulas so if you want to read my notes more comfortably you should use a markdown interpreter that implements this feature. I personally use VSCode with the _LaTeX Workshop_ extension.
 
+[[**Notes**](assets/shen2018.md)] [[Paper](https://arxiv.org/abs/1712.05884)] – 2018 – **Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions** – Jonathan Shen, Ruoming Pang, Ron J. Weiss, Mike Schuster, Navdeep Jaitly, Zongheng Yang, Zhifeng Chen, Yu Zhang, Yuxuan Wang, RJ Skerry-Ryan, Rif A. Saurous, Yannis Agiomyrgiannakis, Yonghui Wu – *ICASSP 2018*
+
 [[**Notes**](assets/wang2017.md)] [[Paper](https://arxiv.org/abs/1703.10135)] – 2017 – **Tacotron: Towards End-to-End Speech Synthesis** – Yuxuan Wang, RJ Skerry-Ryan, Daisy Stanton, Yonghui Wu, Ron J. Weiss, Navdeep Jaitly, Zongheng Yang, Ying Xiao, Zhifeng Chen, Samy Bengio, Quoc Le, Yannis Agiomyrgiannakis, Rob Clark, Rif A. Saurous – *INTERSPEECH 2017*
 
 [[**Notes**](assets/beliaev2020.md)] [[Paper](https://arxiv.org/abs/2005.05514)] – 2020 – **TalkNet: Fully-Convolutional Non-Autoregressive Speech Synthesis Model** – Stanislav Beliaev, Yurii Rebryk, Boris Ginsburg – *INTERSPEECH 2020*
