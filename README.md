@@ -6,6 +6,8 @@ I usually complement my notes with some scraps of the paper that I consider impo
 
 The majority of my notes are written in markdown and contain LaTeX formulas. GitHub doesn't parse the formulas so if you want to read my notes more comfortably you should use a markdown interpreter that implements this feature. I personally use VSCode with the _LaTeX Workshop_ extension.
 
+[[**Notes**](assets/liu2020.md)] [[Paper](https://ieeexplore.ieee.org/abstract/document/9054523)] – 2020 – **Voice conversion with a transformer network** – Ruolan Liu, Xiao Chen, Xue Wen – *IEEE*
+
 [[**Notes**](assets/ren2020.md)] [[Paper](https://arxiv.org/abs/2007.04590)] – 2020 – **DeepSinger: Singing Voice Synthesis with Data Mined From the Web** – Yi Ren, Xu Tan, Tao Qin, Jian Luan, Zhou Zhao, Tie-Yan Liu – *KDD 2020*
 
 [[**Notes**](assets/kalchbrenner2018.md)] [[Paper](https://arxiv.org/abs/1802.08435)] – 2018 – **Efficient Neural Audio Synthesis** – Nal Kalchbrenner, Erich Elsen, Karen Simonyan, Seb Noury, Norman Casagrande, Edward Lockhart, Florian Stimberg, Aaron van den Oord, Sander Dieleman, Koray Kavukcuoglu – *International Conference of Machine Learning 2018*
