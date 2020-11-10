@@ -6,6 +6,8 @@ I usually complement my notes with some scraps of the paper that I consider impo
 
 The majority of my notes are written in markdown and contain LaTeX formulas. GitHub doesn't parse the formulas so if you want to read my notes more comfortably you should use a markdown interpreter that implements this feature. I personally use VSCode with the _LaTeX Workshop_ extension.
 
+[[**Notes**](assets/liu2020b.md)] [[Paper](https://arxiv.org/pdf/2009.02725.pdf)] – 2020 – **Any-to-Many Voice Conversion with Location-Relative Sequence-to-Sequence Modeling** – Songxiang Liu, Yuewen Cao, Disong Wang, Xixin Wu, Xunying Liu, Helen Meng – *IEEE 2020*
+
 [[**Notes**](assets/morrison2020.md)] [[Paper](https://arxiv.org/abs/2008.03388)] – 2020 – **Controllable Neural Prosody Synthesis** – Max Morrison, Zeyu Jin, Justin Salamon, Nicholas J. Bryan, Gautham J. Mysore – *Interspeech 2020*
 
 [[**Notes**](assets/gritsenko2020.md)] [[Paper](https://arxiv.org/abs/2008.01160)] – 2020 – **A Spectral Energy Distance for Parallel Speech Synthesis** – Alexey A. Gritsenko, Tim Salimans, Rianne van den Berg, Jasper Snoek, Nal Kalchbrenner – *34th Conference on Neural Information Processing Systems (NeurIPS 2020), Vancouver, Canada*
