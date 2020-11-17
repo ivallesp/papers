@@ -8,6 +8,8 @@ The majority of my notes are written in markdown and contain LaTeX formulas. Git
 
 [[**Notes**](assets/blaauw2020.md)] [[Paper](https://arxiv.org/abs/1910.09989)] – 2020 – **Sequence to sequence singing synthesis using the feed forward transformer** – Merlijn Blaauw, Jordi Bonada – *ICASSP 2020*
 
+[[**Notes**](assets/hernandez2019.md)] [[Paper](https://ieee-cog.org/2019/papers/paper_50.pdf)] – 2019 – **A Generalized Framework for Self-Play Training** – Daniel Hernandez; Kevin Denamganaï; Yuan Gao; Peter York; Sam Devlin; Spyridon Samothrakis; James Alfred Walker – *IEEE 2019*
+
 [[**Notes**](assets/liu2020b.md)] [[Paper](https://arxiv.org/pdf/2009.02725.pdf)] – 2020 – **Any-to-Many Voice Conversion with Location-Relative Sequence-to-Sequence Modeling** – Songxiang Liu, Yuewen Cao, Disong Wang, Xixin Wu, Xunying Liu, Helen Meng – *IEEE 2020*
 
 [[**Notes**](assets/morrison2020.md)] [[Paper](https://arxiv.org/abs/2008.03388)] – 2020 – **Controllable Neural Prosody Synthesis** – Max Morrison, Zeyu Jin, Justin Salamon, Nicholas J. Bryan, Gautham J. Mysore – *Interspeech 2020*
