@@ -9,6 +9,8 @@ The majority of my notes are written in markdown and contain LaTeX formulas. Git
 
 [[**Notes**](assets/gou2020.md)] [[Paper](https://arxiv.org/abs/2006.05525)] – 2020 – **Knowledge distillation: A survey** – Jianping Gou, Baosheng Yu, Stephen J. Maybank, Dacheng Tao – *Sydney AI Centre report 2020*
 
+[[**Notes**](assets/hinton2015.md)] [[Paper](https://arxiv.org/abs/1503.02531)] – 2015 – **Distilling the Knowledge in a Neural Network** –  Geoffrey Hinton, Oriol Vinyals and Jeff Dean – *Neural Information Processing Systems 2014*
+
 [[**Notes**](assets/kim2020.md)] [[Paper](https://arxiv.org/abs/2005.11129)] – 2020 – **Glow-TTS: A generative flow for text-to-speech via Monotonic Alignment Search** – Jaehyeon Kim, Sungwon Kim, Jungil Kong, Sungroh Yoon – *Neurips 2020*
 
 [[**Notes**](assets/blaauw2020.md)] [[Paper](https://arxiv.org/abs/1910.09989)] – 2020 – **Sequence to sequence singing synthesis using the feed forward transformer** – Merlijn Blaauw, Jordi Bonada – *ICASSP 2020*
