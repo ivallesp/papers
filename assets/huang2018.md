@@ -24,9 +24,10 @@ Some details:
 - To further reduce the number of parameters, a compositional convolution is used where a 1x1 conv is used before the usual 3x3 convolutions (predecessor of depthwise-separable convolutions).
 - Batch norm is used before each ReLU activation.
 
+Further architecture details
+![](huang2018/architecture_details.png)
 
 The network has been tested over multiple datasets (CIFAR-10/100, SVHN and ImageNet) showing superior performance almost in all the cases. The results are attached in the table below.
-
-![](huang2018/results_cifar_svhn.png)
+![](huang2018/results_small_datasets.png)
 
 ![](huang2018/results_imagenet.png)
