@@ -6,7 +6,9 @@ I usually complement my notes with some scraps of the paper that I consider impo
 
 The majority of my notes are written in markdown and contain LaTeX formulas. GitHub doesn't parse the formulas so if you want to read my notes more comfortably you should use a markdown interpreter that implements this feature. I personally use VSCode with the _LaTeX Workshop_ extension.
 
-[[**Notes**](assets/tan2019.md)] [[Paper](https://arxiv.org/abs/1905.11946)] – 2019 – **EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks** – Mingxing Tan, Quoc V. Le – *nternational Conference on Machine Learning, 2019*
+[[**Notes**](assets/zoph2017.md)] [[Paper](https://arxiv.org/abs/1707.07012)] – 2017 – **Learning Transferable Architectures for Scalable Image Recognition** – Barret Zoph, Vijay Vasudevan, Jonathon Shlens, Quoc V. Le – *CVPR, 2018*
+
+[[**Notes**](assets/tan2019.md)] [[Paper](https://arxiv.org/abs/1905.11946)] – 2019 – **EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks** – Mingxing Tan, Quoc V. Le – *International Conference on Machine Learning, 2019*
 
 [[**Notes**](assets/sandler2018.md)] [[Paper](https://arxiv.org/pdf/1801.04381.pdf)] – 2018 – **MobileNetV2: Inverted Residuals and Linear Bottlenecks** – Mark Sandler, Andrew Howard, Menglong Zhu, Andrey Zhmoginov, Liang-Chieh Chen – *The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2018
 
@@ -95,7 +97,6 @@ The majority of my notes are written in markdown and contain LaTeX formulas. Git
 [[**Notes**](assets/schulman2015.md)] [[Paper](https://arxiv.org/abs/1502.05477)] – 2015 – **Trust Region Policy Optimization** – John Schulman, Sergey Levine, Philipp Moritz, Michael I. Jordan, Pieter Abbeel – *Proceedings of the 31st International Conference on Machine Learning*
 
 [[**Notes**](assets/mnih2016.md)] [[Paper](https://arxiv.org/abs/1602.01783)] – 2016 – **Asynchronous Methods for Deep Reinforcement Learning** – Volodymyr Mnih, Adrià Puigdomènech Badia, Mehdi Mirza, Alex Graves, Timothy P. Lillicrap, Tim Harley, David Silver, Koray Kavukcuoglu – *Proceedings of The 33rd International Conference on Machine Learning*
-
 
 [[**Notes**](assets/raghu2020.md)] [[Paper](https://arxiv.org/abs/2003.11755)] – 2020 – **A Survey of Deep Learning for Scientific Discovery** – Maithra Raghu, Eric Schmidt – *Cornell Univeristy and Schmidt Futures report*
 
