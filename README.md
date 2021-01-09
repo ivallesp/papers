@@ -6,6 +6,8 @@ I usually complement my notes with some scraps of the paper that I consider impo
 
 The majority of my notes are written in markdown and contain LaTeX formulas. GitHub doesn't parse the formulas so if you want to read my notes more comfortably you should use a markdown interpreter that implements this feature. I personally use VSCode with the _LaTeX Workshop_ extension.
 
+[[**Notes**](assets/szegedy2016.md)] [[Paper](https://arxiv.org/abs/1602.07261)] – 2016 – **Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning** – Christian Szegedy, Sergey Ioffe, Vincent Vanhoucke, Alex Alemi – *CVPR, 2016*
+
 [[**Notes**](assets/zoph2017.md)] [[Paper](https://arxiv.org/abs/1707.07012)] – 2017 – **Learning Transferable Architectures for Scalable Image Recognition** – Barret Zoph, Vijay Vasudevan, Jonathon Shlens, Quoc V. Le – *CVPR, 2018*
 
 [[**Notes**](assets/tan2019.md)] [[Paper](https://arxiv.org/abs/1905.11946)] – 2019 – **EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks** – Mingxing Tan, Quoc V. Le – *International Conference on Machine Learning, 2019*
