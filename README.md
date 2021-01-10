@@ -6,6 +6,8 @@ I usually complement my notes with some scraps of the paper that I consider impo
 
 The majority of my notes are written in markdown and contain LaTeX formulas. GitHub doesn't parse the formulas so if you want to read my notes more comfortably you should use a markdown interpreter that implements this feature. I personally use VSCode with the _LaTeX Workshop_ extension.
 
+[[**Notes**](assets/bromley1993.md)] [[Paper](https://proceedings.neurips.cc/paper/1993/hash/288cc0ff022877bd3df94bc9360b9c5d-Abstract.html)] – 1993 – **Signature Verification using a "Siamese" Time Delay Neural Network** – Jane Bromley, Isabelle Guyon, Yann LeCun, Eduard Säckinger, Roopak Shah – *NIPS, 1993*
+
 [[**Notes**](assets/szegedy2016.md)] [[Paper](https://arxiv.org/abs/1602.07261)] – 2016 – **Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning** – Christian Szegedy, Sergey Ioffe, Vincent Vanhoucke, Alex Alemi – *CVPR, 2016*
 
 [[**Notes**](assets/zoph2017.md)] [[Paper](https://arxiv.org/abs/1707.07012)] – 2017 – **Learning Transferable Architectures for Scalable Image Recognition** – Barret Zoph, Vijay Vasudevan, Jonathon Shlens, Quoc V. Le – *CVPR, 2018*
