@@ -6,6 +6,8 @@ I usually complement my notes with some scraps of the paper that I consider impo
 
 The majority of my notes are written in markdown and contain LaTeX formulas. GitHub doesn't parse the formulas so if you want to read my notes more comfortably you should use a markdown interpreter that implements this feature. I personally use VSCode with the _LaTeX Workshop_ extension.
 
+[[**Notes**](assets/aggarwal2020.md)] [[Paper](https://arxiv.org/abs/1911.12760)] – 2020 – **Using VAEs and Normalizing Flows for One-shot Text-To-Speech Synthesis of Expressive Speech** –Vatsal Aggarwal, Marius Cotescu, Nishant Prateek, Jaime Lorenzo-Trueba, Roberto Barra-Chicote – *ICASSP 2020*
+
 [[**Notes**](assets/oktay2020.md)] [[Paper](https://arxiv.org/abs/2007.10412)] – 2021 – **Randomized Automatic Differentiation** – Deniz Oktay, Nick McGreivy, Joshua Aduol, Alex Beatson, Ryan P. Adams – *ICLR 2021*
 
 [[**Notes**](assets/lui2021.md)] [[Paper](https://arxiv.org/abs/2010.12423)] – 2021 – **GraphSpeech: Syntax-Aware Graph Attention Network For Neural Speech Synthesis** – Rui Liu, Berrak Sisman, Haizhou Li – *ICASSP 2021*
