@@ -7,6 +7,8 @@ I usually complement my notes with some scraps of the paper that I consider impo
 The majority of my notes are written in markdown and contain LaTeX formulas. GitHub doesn't parse the formulas so if you want to read my notes more comfortably you should use a markdown interpreter that implements this feature. I personally use VSCode with the _LaTeX Workshop_ extension.
 
 
+[[**Notes**](assets/tolstikhin2021.md)] [[Paper](https://arxiv.org/abs/2105.01601)] – 2021 – **MLP-Mixer: An all-MLP Architecture for Vision** – Ilya Tolstikhin, Neil Houlsby, Alexander Kolesnikov, Lucas Beyer, Xiaohua Zhai, Thomas Unterthiner, Jessica Yung, Andreas Steiner, Daniel Keysers, Jakob Uszkoreit, Mario Lucic, Alexey Dosovitskiy – *Google Preprint*
+
 [[**Notes**](assets/pham2021.md)] [[Paper](https://arxiv.org/abs/2003.10580)] – 2021 – **Meta Pseudo Labels** – Hieu Pham, Zihang Dai, Qizhe Xie, Minh-Thang Luong, Quoc V. Le – *IEEE Conference on Computer Vision and Pattern Recognition 2021*
 
 [[**Notes**](assets/lee2013.md)] [[Paper](https://www.researchgate.net/profile/Dong-Hyun-Lee/publication/280581078_Pseudo-Label_The_Simple_and_Efficient_Semi-Supervised_Learning_Method_for_Deep_Neural_Networks/links/55bc4ada08ae092e9660b776/Pseudo-Label-The-Simple-and-Efficient-Semi-Supervised-Learning-Method-for-Deep-Neural-Networks.pdf)] – 2013 – **Pseudo-Label: The Simple and Efficient Semi-Supervised LearningMethod for Deep Neural Networks** – Dong-Hyun Lee – *ICML 2013*
