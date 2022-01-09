@@ -7,6 +7,8 @@ I usually complement my notes with some scraps of the paper that I consider impo
 The majority of my notes are written in markdown and contain LaTeX formulas. GitHub doesn't parse the formulas so if you want to read my notes more comfortably you should use a markdown interpreter that implements this feature. I personally use VSCode with the _LaTeX Workshop_ extension.
 
 
+[[**Notes**](assets/germain2015.md)] [[Paper](https://arxiv.org/abs/1502.03509)] – 2017 – **MADE: Masked Autoencoder for Distribution Estimation** – Mathieu Germain, Karol Gregor, Iain Murray, Hugo Larochelle – *ICML 2015*
+
 [[**Notes**](assets/papamakarios2017.md)] [[Paper](https://arxiv.org/abs/1705.07057)] – 2017 – **Masked Autoregressive Flow for Density Estimation** – George Papamakarios, Theo Pavlakou, Iain Murray – *NIPS 2017*
 
 [[**Notes**](assets/tolstikhin2021.md)] [[Paper](https://arxiv.org/abs/2105.01601)] – 2021 – **MLP-Mixer: An all-MLP Architecture for Vision** – Ilya Tolstikhin, Neil Houlsby, Alexander Kolesnikov, Lucas Beyer, Xiaohua Zhai, Thomas Unterthiner, Jessica Yung, Andreas Steiner, Daniel Keysers, Jakob Uszkoreit, Mario Lucic, Alexey Dosovitskiy – *Google Preprint*
