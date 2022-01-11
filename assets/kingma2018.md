@@ -36,7 +36,7 @@ This paper describes the flow block, which is then pluged into the multi-scale a
 
 ![](kingma2018/flow_proposal.png)
 
-* Normalization: the authors propose using Actnorm, instead of Batchnorm, that was used previously, as it is data independent and allows training with size-1 batches.
+* Normalization: the authors propose using Actnorm, instead of Batchnorm, that was used previously, as it is data independent and allows training with size-1 batches. It consists of a BatchNorm like layer with learnable scale and bias.
 * Invertible 1x1 convolutions: in the flows framework, a permutation operation is needed here. **Predefined** solutions such as reversing or shuffling have been traditionally used here. The authors propose using a **learned** 1x1 convolution, which when the input and output channels are identical, is a generalization of a permutation operation. To allow for a simple determinant, the authors recommend initializing the weights to a random rotation matrix (which has a determinant of zero until trained), together with a LU decomposition of the weight matrix.
 * Affine coupling layers: A series of steps described in the table below. Some tricks are described by the authors: (1) the last convolution weights are initialized to zero so that each affine coupling layer initially performs an identity function. (2) the split is done only along channels dimension for obvious simplicity reasons. (3) permutation: 1x1 convolutions are used.
 
