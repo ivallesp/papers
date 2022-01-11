@@ -6,6 +6,7 @@ I usually complement my notes with some scraps of the paper that I consider impo
 
 The majority of my notes are written in markdown and contain LaTeX formulas. GitHub doesn't parse the formulas so if you want to read my notes more comfortably you should use a markdown interpreter that implements this feature. I personally use VSCode with the _LaTeX Workshop_ extension.
 
+[[**Notes**](assets/chen2021.md)] [[Paper](https://proceedings.neurips.cc/paper/2021/hash/344ef5151be171062f42f03e69663ecf-Abstract.html)] – 2021 – **Speech-T: Transducer for Text to Speech and Beyond** – Jiawei Chen, Xu Tan, Yichong Leng, Jin Xu, Guihua Wen, Tao Qin, Tie-Yan Liu – *Neurips 2021*
 
 [[**Notes**](assets/dinh2017.md)] [[Paper](https://arxiv.org/abs/1605.08803)] – 2017 – **Density estimation using Real NVP** – Laurent Dinh, Jascha Sohl-Dickstein, Samy Bengio – *Google Brain 2017*
 
