@@ -7,9 +7,9 @@ I usually complement my notes with some scraps of the paper that I consider impo
 The majority of my notes are written in markdown and contain LaTeX formulas. GitHub doesn't parse the formulas so if you want to read my notes more comfortably you should use a markdown interpreter that implements this feature. I personally use VSCode with the _LaTeX Workshop_ extension.
 
 
+[[**Notes**](assets/yang2022.md)] [[Paper](https://arxiv.org/abs/2201.08124)] - 2022 – **Cross-Lingual Text-to-Speech Using Multi-Task Learning and Speaker Classifier Joint Training** – J. Yang, Lei He – Microsoft Azure Speech report
 
 [[**Notes**](assets/wang2021.md)] [[Paper](https://arxiv.org/abs/2103.14245)] - 2021 – **Improve GAN-based Neural Vocoder using Pointwise Relativistic LeastSquare GAN** – Congyi Wang, Yu Chen, Bin Wang, Yi Shi – Report 2021
-
 
 [[**Notes**](assets/gan2022.md)] [[Paper](https://arxiv.org/abs/2201.00269)] – 2022 – **IQDUBBING: Prosody modeling based on discrete self-supervised speech representation for expressive voice conversion** – JWendong Gan, Bolong Wen, Ying Yan, Haitao Chen, Zhichao Wang, Hongqiang Du, Lei Xie, Kaixuan Guo, Hai Li – *ICASSP 2022*
 
