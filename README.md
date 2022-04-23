@@ -8,6 +8,8 @@ The majority of my notes are written in markdown and contain LaTeX formulas. Git
 
 [comment]: <> (Start of the notes)
 
+[[**Notes**](assets/hendrycks2016.md)] [[Paper](https://arxiv.org/abs/1606.08415)] - 2016 – **Gaussian Error Linear Units (GELUs)** – Dan Hendrycks, Kevin Gimpel – arXiv Preprint
+
 [[**Notes**](assets/zhou2020.md)] [[Paper](https://ieeexplore.ieee.org/abstract/document/9141847)] - 2020 – **Review of research on lightweight convolutional neural networks** – Yan Zhou, Shaochang Chen, Yiming Wang, Wenming Huan – ITOEC 2020
 
 [[**Notes**](assets/yang2022.md)] [[Paper](https://arxiv.org/abs/2201.08124)] - 2022 – **Cross-Lingual Text-to-Speech Using Multi-Task Learning and Speaker Classifier Joint Training** – J. Yang, Lei He – Microsoft Azure Speech report
