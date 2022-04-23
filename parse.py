@@ -24,7 +24,11 @@ README_START_COMMENT = "[comment]: <> (Start of the notes)"
 
 
 def fetch_html(url):
-    html = urllib.request.urlopen(url).read().decode("utf-8")
+    resource = urllib.request.urlopen(url)
+    encoding = resource.headers.get_content_charset()
+    if encoding is None:
+        encoding = "utf-8"
+    html = resource.read().decode()
     return html
 
 
