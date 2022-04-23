@@ -8,6 +8,8 @@ The majority of my notes are written in markdown and contain LaTeX formulas. Git
 
 [comment]: <> (Start of the notes)
 
+[[**Notes**](assets/valle2020.md)] [[Paper](https://arxiv.org/abs/2005.05957)] - 2020 – **Flowtron: an Autoregressive Flow-based Generative Network for Text-to-Speech Synthesis** – Rafael Valle, Kevin Shih, Ryan Prenger, Bryan Catanzaro – International Conference of Learning Representations, 2021
+
 [[**Notes**](assets/hendrycks2016.md)] [[Paper](https://arxiv.org/abs/1606.08415)] - 2016 – **Gaussian Error Linear Units (GELUs)** – Dan Hendrycks, Kevin Gimpel – arXiv Preprint
 
 [[**Notes**](assets/zhou2020.md)] [[Paper](https://ieeexplore.ieee.org/abstract/document/9141847)] - 2020 – **Review of research on lightweight convolutional neural networks** – Yan Zhou, Shaochang Chen, Yiming Wang, Wenming Huan – ITOEC 2020
