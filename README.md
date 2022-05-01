@@ -8,6 +8,8 @@ The majority of my notes are written in markdown and contain LaTeX formulas. Git
 
 [comment]: <> (Start of the notes)
 
+[[**Notes**](assets/evci2022.md)] [[Paper](https://arxiv.org/abs/2201.03529)] - 2022 – **Head2Toe: Utilizing Intermediate Representations for Better Transfer Learning** – Utku Evci, Vincent Dumoulin, Hugo Larochelle, Michael C. Mozer – arXiv Preprint
+
 [[**Notes**](assets/valle2020.md)] [[Paper](https://arxiv.org/abs/2005.05957)] - 2020 – **Flowtron: an Autoregressive Flow-based Generative Network for Text-to-Speech Synthesis** – Rafael Valle, Kevin Shih, Ryan Prenger, Bryan Catanzaro – International Conference of Learning Representations, 2021
 
 [[**Notes**](assets/hendrycks2016.md)] [[Paper](https://arxiv.org/abs/1606.08415)] - 2016 – **Gaussian Error Linear Units (GELUs)** – Dan Hendrycks, Kevin Gimpel – arXiv Preprint
