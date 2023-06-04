@@ -74,8 +74,12 @@ def add_entry_to_readme(readme):
 
 
 def add_entry(url):
-    html = fetch_html(url)
     if "arxiv.org" in url:
+        # If pdf provided, convert to abstract page.
+        if url.endswith("pdf"):
+            url = url[:-4]
+            url = url.replace("pdf", "abs")
+        html = fetch_html(url)
         title, authors, year = parse_arxiv_content(html)
     else:
         raise NotImplementedError("Only arxiv.org is supported")
