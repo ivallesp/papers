@@ -1,6 +1,6 @@
 ---
 date: '2020-11-15'
-tags: paper
+tags: paper, rl, self-play
 ---
 # A Generalized Framework for Self-Play Training
 

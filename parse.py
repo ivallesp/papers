@@ -48,10 +48,10 @@ def get_file_name(authors, year):
     first_author_surname = authors[0].split(" ")[-1].lower()
     file_name = "{}{}.md".format(first_author_surname, year)
     # Append a letter if the file name already exists
-    if os.path.exists(os.path.join("assets", file_name)):
+    if os.path.exists(os.path.join(file_name)):
         for letter in LETTERS:
             file_name = "{}{}{}.md".format(first_author_surname, year, letter)
-            if not os.path.exists(os.path.join("assets", file_name)):
+            if not os.path.exists(os.path.join(file_name)):
                 break
     return file_name
 
@@ -76,7 +76,7 @@ def add_entry(url):
         raise NotImplementedError("Only arxiv.org is supported")
 
     file_name = get_file_name(authors, year)
-    file_path = os.path.join("assets", file_name)
+    file_path = os.path.join(file_name)
 
     if os.path.exists(file_path):
         raise FileExistsError("File already exists: {}".format(file_path))

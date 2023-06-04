@@ -1,6 +1,6 @@
 ---
 date: '2021-01-07'
-tags: paper
+tags: paper, mobilenet, tinyml
 ---
 # MobileNetV2: Inverted Residuals and Linear Bottlenecks
 

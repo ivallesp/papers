@@ -1,6 +1,6 @@
 ---
 date: '2020-09-17'
-tags: paper
+tags: paper, wavenet, tts, deep-learning, vocoder, speech, generative, probabilistic
 ---
 # Parallel WaveNet: Fast High-Fidelity Speech Synthesis
 

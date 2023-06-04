@@ -1,6 +1,6 @@
 ---
 date: '2020-07-29'
-tags: paper
+tags: paper, deep-learning, tts, speech, vocoder, generative
 ---
 # Towards achieving robust universal neural vocoding
 

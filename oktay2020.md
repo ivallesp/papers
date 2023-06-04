@@ -1,6 +1,6 @@
 ---
 date: '2021-02-08'
-tags: paper
+tags: paper, autodiff, deep-learning
 ---
 # Randomized Automatic Differentiation
 

@@ -1,6 +1,6 @@
 ---
 date: '2020-03-23'
-tags: paper
+tags: paper, rl, off-line
 ---
 # Offline Evaluation of Online Reinforcement Learning Algorithms
 

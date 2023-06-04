@@ -1,6 +1,6 @@
 ---
 date: '2020-04-21'
-tags: paper
+tags: paper, deep-learning, survey
 ---
 # A Survey of Deep Learning for Scientific Discovery
 

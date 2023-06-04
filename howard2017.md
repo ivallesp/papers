@@ -1,6 +1,6 @@
 ---
 date: '2021-01-06'
-tags: paper
+tags: paper, tinyml, mobilenets, deep-learning
 ---
 # MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications
 

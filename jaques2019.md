@@ -1,6 +1,6 @@
 ---
 date: '2020-03-23'
-tags: paper
+tags: paper, off-policy, rl
 ---
 # Way Off-Policy Batch Reinforcement Learning of Implicit Human Preferences in Dialog
 

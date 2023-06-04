@@ -1,6 +1,6 @@
 ---
 date: '2020-03-23'
-tags: paper
+tags: paper, rl, off-policy
 ---
 # Striving for simplicity in off-policy deep reinforcement learning
 

@@ -1,6 +1,6 @@
 ---
 date: '2020-07-10'
-tags: paper
+tags: paper, deep-learning, wild
 ---
 # Weight agnostic neural networks
 

@@ -1,6 +1,6 @@
 ---
 date: '2020-10-13'
-tags: paper
+tags: paper, nlp,  deep-learning
 ---
 # Text Normalization Using Memory Augmented Neural Networks
 

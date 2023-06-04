@@ -1,6 +1,6 @@
 ---
 date: '2020-12-21'
-tags: paper
+tags: paper, deep-learning, tts, prosody, speech
 ---
 # Controllable neural text to speech synthesis using intuitive prosodic features
 

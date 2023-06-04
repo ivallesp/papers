@@ -1,6 +1,6 @@
 ---
 date: '2020-03-23'
-tags: paper
+tags: paper, deep-learning, attention
 ---
 # Attention Is All You Need
 

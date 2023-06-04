@@ -1,6 +1,6 @@
 ---
 date: '2021-01-04'
-tags: paper
+tags: paper, deep-learning, densenets
 ---
 # Densely Connected Convolutional Networks
 

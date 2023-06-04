@@ -1,6 +1,6 @@
 ---
 date: '2020-09-18'
-tags: paper
+tags: paper, tts, vocoder, speech, deep-learning
 ---
 # Efficient Neural Audio Synthesis
 

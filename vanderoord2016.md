@@ -1,6 +1,6 @@
 ---
 date: '2020-07-13'
-tags: paper
+tags: paper, wavenet, deep-learning, speech, vocoder, tts, generative
 ---
 # WaveNet: A Generative Model for Raw Audio
 

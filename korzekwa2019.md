@@ -1,6 +1,6 @@
 ---
 date: '2020-07-28'
-tags: paper
+tags: paper, deep-learning, tts, speech, generative
 ---
 # Interpretable Deep Learning Model for the Detection and Reconstruction of Dysarthric Speech
 

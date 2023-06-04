@@ -1,6 +1,6 @@
 ---
 date: '2022-04-23'
-tags: paper
+tags: paper, deep-learning, activations, gelu
 ---
 # Gaussian Error Linear Units (GELUs)
 

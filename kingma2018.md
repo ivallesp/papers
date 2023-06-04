@@ -1,6 +1,6 @@
 ---
 date: '2021-02-27'
-tags: paper
+tags: paper, deep-learning, normalizing-flows, glow, generative, probabilistic
 ---
 # Glow: Generative Flow with Invertible 1x1 Convolutions
 

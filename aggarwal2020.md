@@ -1,6 +1,6 @@
 ---
 date: '2021-02-27'
-tags: paper
+tags: paper, vae, deep-learning, normalizing-flows, tts, speech, generative, probabilistic
 ---
 # Using VAEs and Normalizing Flows for One-shot Text-To-Speech Synthesis of Expressive Speech
 

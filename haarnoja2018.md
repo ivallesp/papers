@@ -1,6 +1,6 @@
 ---
 date: '2020-05-03'
-tags: paper
+tags: paper, rl, off-policy
 ---
 # Soft Actor-Critic: Off-policy maximum entropy deep reinforcement learning with a stochastic actor
 

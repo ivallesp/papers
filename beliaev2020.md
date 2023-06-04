@@ -1,6 +1,6 @@
 ---
 date: '2020-09-15'
-tags: paper
+tags: paper, deep-learning, speech, tts, generative
 ---
 # TalkNet: Fully-Convolutional Non-Autoregressive Speech Synthesis Model
 

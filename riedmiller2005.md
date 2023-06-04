@@ -1,6 +1,6 @@
 ---
 date: '2020-03-23'
-tags: paper
+tags: paper, rl
 ---
 # Neural Fitted Q Iteration - First Experiences with a Data Efficient Neural Reinforcement Learning Method
 

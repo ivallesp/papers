@@ -1,6 +1,6 @@
 ---
 date: '2020-03-23'
-tags: paper
+tags: paper, off-policy, rl
 ---
 # Doubly Robust Off-Policy Value Evaluation for Reinforcement Learning
 

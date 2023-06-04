@@ -1,6 +1,6 @@
 ---
 date: '2020-07-28'
-tags: paper
+tags: paper, deep-learning, tts, speech, style, generative
 ---
 # In Other News: A Bi-style Text-to-speech Model for Synthesizing Newscaster Voice with Limited Data
 

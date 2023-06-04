@@ -1,6 +1,6 @@
 ---
 date: '2020-05-02'
-tags: paper
+tags: paper, rl, continuous
 ---
 # Continuous control with Deep Reinforcement Learning
 

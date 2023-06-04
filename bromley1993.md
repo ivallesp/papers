@@ -1,6 +1,6 @@
 ---
 date: '2021-01-10'
-tags: paper
+tags: paper, deep-learning, siamese, verification
 ---
 # Signature Verification using a "Siamese" Time Delay Neural Network
 

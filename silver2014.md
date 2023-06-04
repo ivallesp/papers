@@ -1,6 +1,6 @@
 ---
 date: '2020-05-02'
-tags: paper
+tags: paper, rl, policy-gradient, deterministic
 ---
 # Deterministic Policy Gradient Algorithms
 

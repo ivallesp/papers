@@ -1,6 +1,6 @@
 ---
 date: '2022-01-09'
-tags: paper
+tags: paper, deep-learning, wild
 ---
 # MLP-Mixer: An all-MLP Architecture for Vision
 

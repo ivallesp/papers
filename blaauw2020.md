@@ -1,6 +1,6 @@
 ---
 date: '2020-11-17'
-tags: paper
+tags: paper, deep-learning, seq2seq, transformer, generative, singing
 ---
 # Sequence to sequence singing synthesis using the feed forward transformer
 

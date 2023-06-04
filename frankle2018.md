@@ -1,6 +1,6 @@
 ---
 date: '2020-05-17'
-tags: paper
+tags: paper, deep-learning, lottery-ticket-hypothesis, pruning
 ---
 # The lottery ticket hypothesis: finding sparse, trainable neural networks
 

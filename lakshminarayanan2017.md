@@ -1,6 +1,6 @@
 ---
 date: '2020-06-15'
-tags: paper
+tags: paper, deep-learning, uncertainty
 ---
 # Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles
 

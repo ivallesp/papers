@@ -1,6 +1,6 @@
 ---
 date: '2022-01-09'
-tags: paper
+tags: paper, deep-learning, normalizing-flows, generative, probabilistic
 ---
 # Masked Autoregressive Flow for Density Estimation
 

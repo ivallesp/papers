@@ -1,6 +1,6 @@
 ---
 date: '2020-03-23'
-tags: paper
+tags: paper, rl, off-policy, exploration
 ---
 # Off-Policy Deep Reinforcement Learning without Exploration
 

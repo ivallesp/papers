@@ -1,6 +1,6 @@
 ---
 date: '2020-05-10'
-tags: paper
+tags: paper, deep-learning, time-series
 ---
 # Temporal Pattern Attention for Multivariate Time Series Forecasting
 

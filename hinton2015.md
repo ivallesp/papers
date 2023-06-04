@@ -1,6 +1,6 @@
 ---
 date: '2020-11-26'
-tags: paper
+tags: paper, knowledge-distillation, deep-learning
 ---
 # Distilling the Knowledge in a Neural Network
 

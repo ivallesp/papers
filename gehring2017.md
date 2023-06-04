@@ -1,6 +1,6 @@
 ---
 date: '2020-03-23'
-tags: paper
+tags: paper, deep-learning, seq2seq
 ---
 # Convolutional Sequence to Sequence Learning
 

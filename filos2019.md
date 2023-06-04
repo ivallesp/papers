@@ -1,6 +1,6 @@
 ---
 date: '2020-06-14'
-tags: paper
+tags: paper, deep-learning, bayesian-dlm, montecarlo, dropout, probabilistic
 ---
 # A Systematic Comparison of Bayesian Deep Learning Robustness in Diabetic Retinopathy Tasks
 

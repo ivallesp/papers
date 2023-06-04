@@ -1,6 +1,6 @@
 ---
 date: '2020-11-03'
-tags: paper
+tags: paper, deep-learning, prosody, tts, speech, generative
 ---
 # Controllable Neural Prosody Synthesis
 

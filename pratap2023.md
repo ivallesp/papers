@@ -1,3 +1,8 @@
+---
+date: '2023-06-01'
+tags: paper, deep-learning, tts, asr, speech
+---
+
 # Scaling Speech Technology to 1,000+ Languages
 
 [Link to the paper](https://arxiv.org/abs/2305.13516)

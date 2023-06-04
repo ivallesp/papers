@@ -1,6 +1,6 @@
 ---
 date: '2020-03-23'
-tags: paper
+tags: paper, rl, bandits, off-policy
 ---
 # Doubly Robust Policy Evaluation and Learning
 

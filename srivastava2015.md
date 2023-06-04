@@ -1,6 +1,6 @@
 ---
 date: '2021-01-06'
-tags: paper
+tags: paper, deep-learning
 ---
 # Training Very Deep Networks
 

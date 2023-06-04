@@ -1,6 +1,6 @@
 ---
 date: '2020-10-27'
-tags: paper
+tags: paper, deep-learning, tts, speech
 ---
 # A Spectral Energy Distance for Parallel Speech Synthesis
 

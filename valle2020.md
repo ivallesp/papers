@@ -1,6 +1,6 @@
 ---
 date: '2022-04-23'
-tags: paper
+tags: paper, deep-learning, normalizing-flows, generative, probabilistic
 ---
 # Flowtron: an Autoregressive Flow-based Generative Network for Text-to-Speech Synthesis
 

@@ -1,6 +1,6 @@
 ---
 date: '2020-03-23'
-tags: paper
+tags: paper, deep-learning, simulation
 ---
 # Up to two billion times acceleration of scientific simulations with deep neural architecture search
 

@@ -1,6 +1,6 @@
 ---
 date: '2020-03-23'
-tags: paper
+tags: paper, rl, large
 ---
 # Deep Reinforcement Learning in Large Discrete Action Spaces
 

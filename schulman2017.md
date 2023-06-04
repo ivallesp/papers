@@ -1,6 +1,6 @@
 ---
 date: '2020-04-27'
-tags: paper
+tags: paper, ppo, rl
 ---
 # Proximal Policy Optimization Algorithms
 

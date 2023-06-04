@@ -1,6 +1,6 @@
 ---
 date: '2021-01-09'
-tags: paper
+tags: paper, deep-learning, inception
 ---
 # Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning
 

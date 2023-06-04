@@ -1,6 +1,6 @@
 ---
 date: '2022-01-09'
-tags: paper
+tags: paper, deep-learning, made, vae, generative
 ---
 # MADE: Masked Autoencoder for Distribution Estimation
 
