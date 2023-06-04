@@ -6,7 +6,11 @@ I usually complement my notes with some scraps of the paper that I consider impo
 
 The majority of my notes are written in markdown and contain LaTeX formulas. GitHub doesn't parse the formulas so if you want to read my notes more comfortably you should use a markdown interpreter that implements this feature. I personally use VSCode with the _LaTeX Workshop_ extension.
 
+## Papers
+
 [comment]: <> (Start of the notes)
+
+[[**Notes**](pratap2023.md)] [[Paper](https://arxiv.org/abs/2305.13516)] - 2023 – **Scaling Speech Technology to 1,000+ Languages** – Vineel Pratap, Andros Tjandra, Bowen Shi, Paden Tomasello, Arun Babu, Sayani Kundu, Ali Elkahky, Zhaoheng Ni, Apoorv Vyas, Maryam Fazel-Zarandi, Alexei Baevski, Yossi Adi, Xiaohui Zhang, Wei-Ning Hsu, Alexis Conneau, Michael Auli – arXiv Preprint
 
 [[**Notes**](evci2022.md)] [[Paper](https://arxiv.org/abs/2201.03529)] - 2022 – **Head2Toe: Utilizing Intermediate Representations for Better Transfer Learning** – Utku Evci, Vincent Dumoulin, Hugo Larochelle, Michael C. Mozer – arXiv Preprint
 
