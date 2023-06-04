@@ -4,10 +4,15 @@ import re
 import urllib.request
 
 from bs4 import BeautifulSoup
+from datetime import datetime
 
 LETTERS = "bcdefghijklmnopqrstuvwxyz"
 
 NOTES_PATTERN = (
+    "---\n"
+    f"date: '{datetime.now().isoformat()[:10]}'\n"
+    "tags: paper\n"
+    "---\n"
     "# {title}\n\n"
     "[Link to the paper]({url})\n\n"
     "**{authors}**\n\n"
