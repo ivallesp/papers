@@ -10,6 +10,8 @@ The majority of my notes are written in markdown and contain LaTeX formulas. Git
 
 [comment]: <> (Start of the notes)
 
+[[**Notes**](yang2023.md)] [[Paper](https://arxiv.org/abs/2305.02765)] - 2023 – **HiFi-Codec: Group-residual Vector quantization for High Fidelity Audio Codec** – Dongchao Yang, Songxiang Liu, Rongjie Huang, Jinchuan Tian, Chao Weng, Yuexian Zou – arXiv Preprint
+
 [[**Notes**](song2023.md)] [[Paper](https://arxiv.org/abs/2303.01469)] - 2023 – **Consistency Models** – Yang Song, Prafulla Dhariwal, Mark Chen, Ilya Sutskever – arXiv Preprint
 
 [[**Notes**](pratap2023.md)] [[Paper](https://arxiv.org/abs/2305.13516)] - 2023 – **Scaling Speech Technology to 1,000+ Languages** – Vineel Pratap, Andros Tjandra, Bowen Shi, Paden Tomasello, Arun Babu, Sayani Kundu, Ali Elkahky, Zhaoheng Ni, Apoorv Vyas, Maryam Fazel-Zarandi, Alexei Baevski, Yossi Adi, Xiaohui Zhang, Wei-Ning Hsu, Alexis Conneau, Michael Auli – arXiv Preprint
