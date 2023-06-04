@@ -10,6 +10,8 @@ The majority of my notes are written in markdown and contain LaTeX formulas. Git
 
 [comment]: <> (Start of the notes)
 
+[[**Notes**](borsos2023.md)] [[Paper](https://arxiv.org/abs/2305.09636)] - 2023 – **SoundStorm: Efficient Parallel Audio Generation** – Zalán Borsos, Matt Sharifi, Damien Vincent, Eugene Kharitonov, Neil Zeghidour, Marco Tagliasacchi – Google Research Report
+
 [[**Notes**](yang2023.md)] [[Paper](https://arxiv.org/abs/2305.02765)] - 2023 – **HiFi-Codec: Group-residual Vector quantization for High Fidelity Audio Codec** – Dongchao Yang, Songxiang Liu, Rongjie Huang, Jinchuan Tian, Chao Weng, Yuexian Zou – arXiv Preprint
 
 [[**Notes**](song2023.md)] [[Paper](https://arxiv.org/abs/2303.01469)] - 2023 – **Consistency Models** – Yang Song, Prafulla Dhariwal, Mark Chen, Ilya Sutskever – arXiv Preprint
