@@ -12,6 +12,8 @@ The majority of my notes are written in markdown and contain LaTeX formulas. Git
 
 [[**Notes**](gu2021.md)] [[Paper](https://arxiv.org/abs/2111.00396)] - 2021 – **Efficiently Modeling Long Sequences with Structured State Spaces** – Albert Gu, Karan Goel, Christopher Ré – ICLR 2022
 
+[[**Notes**](dao2022.md)] [[Paper](https://arxiv.org/abs/2205.14135)] - 2022 – **FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness** – Tri Dao, Daniel Y. Fu, Stefano Ermon, Atri Rudra, Christopher Ré – arXiv Preprint
+
 [[**Notes**](gulati2020.md)] [[Paper](https://arxiv.org/abs/2005.08100)] - 2020 – **Conformer: Convolution-augmented Transformer for Speech Recognition** – Anmol Gulati, James Qin, Chung-Cheng Chiu, Niki Parmar, Yu Zhang, Jiahui Yu, Wei Han, Shibo Wang, Zhengdong Zhang, Yonghui Wu, Ruoming Pang – Interspeech 2020
 
 [[**Notes**](borsos2023.md)] [[Paper](https://arxiv.org/abs/2305.09636)] - 2023 – **SoundStorm: Efficient Parallel Audio Generation** – Zalán Borsos, Matt Sharifi, Damien Vincent, Eugene Kharitonov, Neil Zeghidour, Marco Tagliasacchi – Google Research Report
