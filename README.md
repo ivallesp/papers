@@ -10,6 +10,8 @@ The majority of my notes are written in markdown and contain LaTeX formulas. Git
 
 [comment]: <> (Start of the notes)
 
+[[**Notes**](gu2021.md)] [[Paper](https://arxiv.org/abs/2111.00396)] - 2021 – **Efficiently Modeling Long Sequences with Structured State Spaces** – Albert Gu, Karan Goel, Christopher Ré – ICLR 2022
+
 [[**Notes**](borsos2023.md)] [[Paper](https://arxiv.org/abs/2305.09636)] - 2023 – **SoundStorm: Efficient Parallel Audio Generation** – Zalán Borsos, Matt Sharifi, Damien Vincent, Eugene Kharitonov, Neil Zeghidour, Marco Tagliasacchi – Google Research Report
 
 [[**Notes**](yang2023.md)] [[Paper](https://arxiv.org/abs/2305.02765)] - 2023 – **HiFi-Codec: Group-residual Vector quantization for High Fidelity Audio Codec** – Dongchao Yang, Songxiang Liu, Rongjie Huang, Jinchuan Tian, Chao Weng, Yuexian Zou – arXiv Preprint
