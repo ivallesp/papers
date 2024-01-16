@@ -12,6 +12,12 @@ The majority of my notes are written in markdown and contain LaTeX formulas. Git
 
 [[**Notes**](gu2021.md)] [[Paper](https://arxiv.org/abs/2111.00396)] - 2021 – **Efficiently Modeling Long Sequences with Structured State Spaces** – Albert Gu, Karan Goel, Christopher Ré – ICLR 2022
 
+[[**Notes**](le2023.md)] [[Paper](https://arxiv.org/abs/2306.15687)] - 2023 – **Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale** – Matthew Le, Apoorv Vyas, Bowen Shi, Brian Karrer, Leda Sari, Rashel Moritz, Mary Williamson, Vimal Manohar, Yossi Adi, Jay Mahadeokar, Wei-Ning Hsu – arXiv Preprint
+
+[[**Notes**](hao2023.md)] [[Paper](https://arxiv.org/abs/2401.00246)] - 2023 – **Boosting Large Language Model for Speech Synthesis: An Empirical Study** – Hongkun Hao, Long Zhou, Shujie Liu, Jinyu Li, Shujie Hu, Rui Wang, Furu Wei – arXiv Preprint
+
+[[**Notes**](jiang2023.md)] [[Paper](https://arxiv.org/abs/2306.03509)] - 2023 – **Mega-TTS: Zero-Shot Text-to-Speech at Scale with Intrinsic Inductive Bias** – Ziyue Jiang, Yi Ren, Zhenhui Ye, Jinglin Liu, Chen Zhang, Qian Yang, Shengpeng Ji, Rongjie Huang, Chunfeng Wang, Xiang Yin, Zejun Ma, Zhou Zhao – arXiv Preprint
+
 [[**Notes**](dao2022.md)] [[Paper](https://arxiv.org/abs/2205.14135)] - 2022 – **FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness** – Tri Dao, Daniel Y. Fu, Stefano Ermon, Atri Rudra, Christopher Ré – arXiv Preprint
 
 [[**Notes**](gulati2020.md)] [[Paper](https://arxiv.org/abs/2005.08100)] - 2020 – **Conformer: Convolution-augmented Transformer for Speech Recognition** – Anmol Gulati, James Qin, Chung-Cheng Chiu, Niki Parmar, Yu Zhang, Jiahui Yu, Wei Han, Shibo Wang, Zhengdong Zhang, Yonghui Wu, Ruoming Pang – Interspeech 2020
