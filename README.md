@@ -10,6 +10,8 @@ The majority of my notes are written in markdown and contain LaTeX formulas. Git
 
 [comment]: <> (Start of the notes)
 
+[[**Notes**](jiang2024.md)] [[Paper](https://arxiv.org/abs/2401.04088)] - 2024 – **Mixtral of Experts** – Albert Q. Jiang, Alexandre Sablayrolles, Antoine Roux, Arthur Mensch, Blanche Savary, Chris Bamford, Devendra Singh Chaplot, Diego de las Casas, Emma Bou Hanna, Florian Bressand, Gianna Lengyel, Guillaume Bour, Guillaume Lample, Lélio Renard Lavaud, Lucile Saulnier, Marie-Anne Lachaux, Pierre Stock, Sandeep Subramanian, Sophia Yang, Szymon Antoniak, Teven Le Scao, Théophile Gervet, Thibaut Lavril, Thomas Wang, Timothée Lacroix, William El Sayed – Mistral report
+
 [[**Notes**](ainslie2023.md)] [[Paper](https://arxiv.org/abs/2305.13245)] - 2023 – **GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints** – Joshua Ainslie, James Lee-Thorp, Michiel de Jong, Yury Zemlyanskiy, Federico Lebrón, Sumit Sanghai – arXiv Preprint
 
 [[**Notes**](gu2021.md)] [[Paper](https://arxiv.org/abs/2111.00396)] - 2021 – **Efficiently Modeling Long Sequences with Structured State Spaces** – Albert Gu, Karan Goel, Christopher Ré – ICLR 2022
