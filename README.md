@@ -10,6 +10,8 @@ The majority of my notes are written in markdown and contain LaTeX formulas. Git
 
 [comment]: <> (Start of the notes)
 
+[[**Notes**](ainslie2023.md)] [[Paper](https://arxiv.org/abs/2305.13245)] - 2023 – **GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints** – Joshua Ainslie, James Lee-Thorp, Michiel de Jong, Yury Zemlyanskiy, Federico Lebrón, Sumit Sanghai – arXiv Preprint
+
 [[**Notes**](gu2021.md)] [[Paper](https://arxiv.org/abs/2111.00396)] - 2021 – **Efficiently Modeling Long Sequences with Structured State Spaces** – Albert Gu, Karan Goel, Christopher Ré – ICLR 2022
 
 [[**Notes**](le2023.md)] [[Paper](https://arxiv.org/abs/2306.15687)] - 2023 – **Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale** – Matthew Le, Apoorv Vyas, Bowen Shi, Brian Karrer, Leda Sari, Rashel Moritz, Mary Williamson, Vimal Manohar, Yossi Adi, Jay Mahadeokar, Wei-Ning Hsu – arXiv Preprint
