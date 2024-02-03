@@ -85,7 +85,7 @@ def add_entry(url):
         raise NotImplementedError("Only arxiv.org is supported")
 
     file_name = get_file_name(authors, year)
-    file_path = os.path.join(file_name)
+    file_path = os.path.join("notes", file_name)
 
     if os.path.exists(file_path):
         raise FileExistsError("File already exists: {}".format(file_path))

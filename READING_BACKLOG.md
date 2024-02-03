@@ -8,3 +8,12 @@
 - https://pytorch.org/tutorials/intermediate/pruning_tutorial.html https://towardsdatascience.com/5-advanced-pytorch-tools-to-level-up-your-workflow-d0bcf0603ad5
 
 -Pruning neural networks without any data by iteratively conserving synaptic flow by Hidenori Tanaka, Daniel Kunin, Daniel L. K. Yamins and Surya Ganguli
+
+
+- Mamba
+- Adapters (Olga)
+    - Modularity paper: https://arxiv.org/pdf/2302.11529.pdf
+- RAG
+- Descript
+
+- Supermasks: https://arxiv.org/pdf/2006.14769.pdf
