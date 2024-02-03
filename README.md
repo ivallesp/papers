@@ -10,6 +10,8 @@ The majority of my notes are written in markdown and contain LaTeX formulas. Git
 
 [comment]: <> (Start of the notes)
 
+[[**Notes**](gu2023a.md)] [[Paper](https://arxiv.org/abs/2312.00752)] - 2023 – **Mamba: Linear-Time Sequence Modeling with Selective State Spaces** – Albert Gu, Tri Dao – arXiv Preprint
+
 [[**Notes**](houlsby2019.md)] [[Paper](https://arxiv.org/abs/1902.00751)] - 2019 – **Parameter-Efficient Transfer Learning for NLP** – Neil Houlsby, Andrei Giurgiu, Stanislaw Jastrzebski, Bruna Morrone, Quentin de Laroussilhe, Andrea Gesmundo, Mona Attariyan, Sylvain Gelly – arXiv Preprint
 
 [[**Notes**](peng2023.md)] [[Paper](https://arxiv.org/abs/2305.13048)] - 2023 – **RWKV: Reinventing RNNs for the Transformer Era** – Bo Peng, Eric Alcaide, Quentin Anthony, Alon Albalak, Samuel Arcadinho, Stella Biderman, Huanqi Cao, Xin Cheng, Michael Chung, Matteo Grella, Kranthi Kiran GV, Xuzheng He, Haowen Hou, Jiaju Lin, Przemyslaw Kazienko, Jan Kocon, Jiaming Kong, Bartlomiej Koptyra, Hayden Lau, Krishna Sri Ipsit Mantri, Ferdinand Mom, Atsushi Saito, Guangyu Song, Xiangru Tang, Bolun Wang, Johan S. Wind, Stanislaw Wozniak, Ruichong Zhang, Zhenyuan Zhang, Qihang Zhao, Peng Zhou, Qinghua Zhou, Jian Zhu, Rui-Jie Zhu – Neurips 2023
@@ -17,6 +19,7 @@ The majority of my notes are written in markdown and contain LaTeX formulas. Git
 [[**Notes**](jiang2024.md)] [[Paper](https://arxiv.org/abs/2401.04088)] - 2024 – **Mixtral of Experts** – Albert Q. Jiang, Alexandre Sablayrolles, Antoine Roux, Arthur Mensch, Blanche Savary, Chris Bamford, Devendra Singh Chaplot, Diego de las Casas, Emma Bou Hanna, Florian Bressand, Gianna Lengyel, Guillaume Bour, Guillaume Lample, Lélio Renard Lavaud, Lucile Saulnier, Marie-Anne Lachaux, Pierre Stock, Sandeep Subramanian, Sophia Yang, Szymon Antoniak, Teven Le Scao, Théophile Gervet, Thibaut Lavril, Thomas Wang, Timothée Lacroix, William El Sayed – Mistral report
 
 [[**Notes**](ainslie2023.md)] [[Paper](https://arxiv.org/abs/2305.13245)] - 2023 – **GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints** – Joshua Ainslie, James Lee-Thorp, Michiel de Jong, Yury Zemlyanskiy, Federico Lebrón, Sumit Sanghai – arXiv Preprint
+
 [[**Notes**](song2024.md)] [[Paper](https://arxiv.org/abs/2401.07333)] - 2024 – **ELLA-V: Stable Neural Codec Language Modeling with Alignment-guided Sequence Reordering** – Yakun Song, Zhuo Chen, Xiaofei Wang, Ziyang Ma, Xie Chen – arXiv Preprint
 
 [[**Notes**](li2021.md)] [[Paper](https://arxiv.org/abs/2107.07651)] - 2021 – **Align before Fuse: Vision and Language Representation Learning with Momentum Distillation** – Junnan Li, Ramprasaath R. Selvaraju, Akhilesh Deepak Gotmare, Shafiq Joty, Caiming Xiong, Steven Hoi – arXiv Preprint
